@@ -98,6 +98,7 @@
     <option name="newTranslationDialogX" value="963" />
     <option name="newTranslationDialogY" value="428" />
     <histories>
+      <item value="search Value" />
       <item value="scenario" />
       <item value="Sample text for typing scenario" />
       <item value="Sample" />
@@ -147,13 +148,12 @@
       <item value="转让" />
       <item value="转换" />
       <item value="流转" />
-      <item value="申请建房" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="327" />
+        <entry key="CHINESE" value="328" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="328" />
+        <entry key="ENGLISH" value="329" />
         <entry key="GALICIAN" value="1" />
         <entry key="RUSSIAN" value="1" />
       </map>
