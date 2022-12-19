@@ -1,0 +1,162 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogHeight" value="211" />
+    <option name="newTranslationDialogWidth" value="906" />
+    <option name="newTranslationDialogX" value="1004" />
+    <option name="newTranslationDialogY" value="268" />
+    <histories>
+      <item value="Created,Ready,Reserved,In Progress,Completed,Suspended,Canceled,Forwarded,Rollback,Withdraw;" />
+      <item value="Withdraw" />
+      <item value="Rollback" />
+      <item value="Forwarded" />
+      <item value="Canceled" />
+      <item value="Suspended" />
+      <item value="Completed" />
+      <item value="In Progress" />
+      <item value="Reserved" />
+      <item value="Ready" />
+      <item value="Created" />
+      <item value="Finished" />
+      <item value="Processing" />
+      <item value="Supplier" />
+      <item value="'collect(summingInt())' can be replaced with 'mapToInt().sum()' " />
+      <item value="supervise" />
+      <item value="Priority" />
+      <item value="withdraw" />
+      <item value="at least 1808 redeploysrestarts saving you about 73.3 hours." />
+      <item value="Over the last 30 days JRebel prevented 2022" />
+      <item value="at least 1204 redeploysrestarts saving you about 48.8 hours." />
+      <item value="Over the last 79 days JRebel prevented" />
+      <item value="TASK PRIORITY URGE" />
+      <item value="TASK PRIORITY SUPERVISE" />
+      <item value="URGE" />
+      <item value="SUPERVISE" />
+      <item value="set Priority" />
+      <item value="count Supervise Processing" />
+      <item value="Reloading SQL maps" />
+      <item value="No operator matches the given name and argument type(s). You might need to add explicit type casts." />
+      <item value="Closed" />
+      <item value="Rejected" />
+      <item value="Aborted" />
+      <item value="Variable 'taskService' is already defined in the scope" />
+      <item value="get Avaliable Rollback Task Nodes" />
+      <item value="get Prev Task" />
+      <item value="Decision Node" />
+      <item value="Contents of collection 'flowForms' are updated, but never queried " />
+      <item value="Process Definition" />
+      <item value="Operator '==' cannot be applied to 'long', 'null'" />
+      <item value="Non-static method cannot be referenced from a static context" />
+      <item value="Unboxing of 'taskId' may produce 'NullPointerException' " />
+      <item value="sequence Flows" />
+      <item value="排序" />
+      <item value="get Sequence Flows" />
+      <item value="get Business Id" />
+      <item value="get Mb By Ywlsh And Node Mc" />
+      <item value="小孩" />
+      <item value="chiuldren" />
+      <item value="Result of 'List.contains()' is ignored " />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="481" />
+        <entry key="ENGLISH" value="482" />
+        <entry key="GERMAN" value="1" />
+        <entry key="ROMANIAN" value="2" />
+        <entry key="NORWEGIAN" value="1" />
+        <entry key="ITALIAN" value="2" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1670812850949" />
+  </component>
+  <component name="Settings">
+    <option name="baiduTranslateSettings">
+      <app-key>
+        <option name="appId" value="20220823001317059" />
+      </app-key>
+    </option>
+    <option name="phoneticFontFamily" value="Microsoft YaHei UI" />
+    <option name="primaryFontFamily" value="Microsoft YaHei UI" />
+    <option name="translator" value="BAIDU" />
+  </component>
+  <component name="Translation.Cache">
+    <option name="lastTrimTime" value="1671412796160" />
+  </component>
+  <component name="Translation.Settings">
+    <option name="baiduTranslateSettings">
+      <app-key>
+        <option name="appId" value="20220823001317059" />
+      </app-key>
+    </option>
+    <option name="primaryLanguage" value="CHINESE" />
+    <option name="translator" value="BAIDU" />
+  </component>
+  <component name="Translation.States">
+    <option name="newTranslationDialogHeight" value="256" />
+    <option name="newTranslationDialogWidth" value="524" />
+    <option name="newTranslationDialogX" value="963" />
+    <option name="newTranslationDialogY" value="428" />
+    <histories>
+      <item value="scenario" />
+      <item value="Sample text for typing scenario" />
+      <item value="Sample" />
+      <item value="unratified" />
+      <item value="unfortified" />
+      <item value="处理中" />
+      <item value="未批准" />
+      <item value="未" />
+      <item value="未通过" />
+      <item value="完成" />
+      <item value="办结" />
+      <item value="count Approval Situation" />
+      <item value="total Approval Situation" />
+      <item value="total ApprovalSituation" />
+      <item value="totalApprovalSituation" />
+      <item value="情况" />
+      <item value="total Approval" />
+      <item value="totApproval" />
+      <item value="countApproval" />
+      <item value="申请批准情况" />
+      <item value="申请批准" />
+      <item value="申请 " />
+      <item value="申请" />
+      <item value="Expected one result (or null) to be returned by selectOne(), but found: 3" />
+      <item value="Land type" />
+      <item value="土地类型" />
+      <item value="年" />
+      <item value="类型" />
+      <item value="count Apply Type" />
+      <item value="count Application Type" />
+      <item value="omitted for duplicate" />
+      <item value="Combination Test" />
+      <item value="combination" />
+      <item value="assert True" />
+      <item value="assertj" />
+      <item value="stream has already been operated upon or closed" />
+      <item value="抵押" />
+      <item value="面积" />
+      <item value="area" />
+      <item value="count Homestead Out" />
+      <item value="homesteadOut" />
+      <item value="homestead退出" />
+      <item value=" 退出" />
+      <item value="退出" />
+      <item value="费用" />
+      <item value="转让互换" />
+      <item value="转让" />
+      <item value="转换" />
+      <item value="流转" />
+      <item value="申请建房" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="327" />
+        <entry key="DUTCH" value="1" />
+        <entry key="ENGLISH" value="328" />
+        <entry key="GALICIAN" value="1" />
+        <entry key="RUSSIAN" value="1" />
+      </map>
+    </option>
+  </component>
+</application>

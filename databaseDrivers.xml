@@ -1,0 +1,16 @@
+<application>
+  <component name="LocalDatabaseDriverManager" version="201">
+    <driver id="mysql.8">
+      <artifact />
+      <library>
+        <url>file://D:/development/apache-maven-3.6.3/resposity/mysql/mysql-connector-java/8.0.29/mysql-connector-java-8.0.29.jar</url>
+      </library>
+    </driver>
+    <driver id="postgresql">
+      <artifact />
+      <library>
+        <url>file://D:/development/apache-maven-3.6.3/resposity/org/postgresql/postgresql/42.3.6/postgresql-42.3.6.jar</url>
+      </library>
+    </driver>
+  </component>
+</application>

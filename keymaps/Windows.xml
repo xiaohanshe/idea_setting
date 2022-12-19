@@ -1,0 +1,11 @@
+<keymap version="1" name="Windows 副本" parent="$default">
+  <action id="cn.wind.action.NextAction">
+    <keyboard-shortcut first-keystroke="ctrl numpad2" />
+  </action>
+  <action id="cn.wind.action.PrevAction">
+    <keyboard-shortcut first-keystroke="ctrl numpad1" />
+  </action>
+  <action id="cn.wind.action.SwipeAction">
+    <keyboard-shortcut first-keystroke="ctrl numpad3" />
+  </action>
+</keymap>

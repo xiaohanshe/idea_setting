@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <ignoreFiles list="*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;homestead-desktop;homestead-njs;homestead-ui-3d;homestead-ui-gxnf;homestead-ui-nhapp;homestead-ui-web;homestead-ui-zjdapp;homestead-utilize;vssver.scc;vssver2.scc" />
+    <extensionMap>
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
+    </extensionMap>
+  </component>
+</application>
