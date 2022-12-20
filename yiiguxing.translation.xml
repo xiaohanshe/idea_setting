@@ -98,6 +98,9 @@
     <option name="newTranslationDialogX" value="963" />
     <option name="newTranslationDialogY" value="428" />
     <histories>
+      <item value="Reentrant Lock" />
+      <item value="abandon connection, owner thread: main, connected at : 1671498114066, open stackTrace" />
+      <item value="Required request body is missing:" />
       <item value="No operator matches the given name and argument type(s). You might need to add explicit type casts." />
       <item value="operator does not exist: bigint = character varying" />
       <item value="scenario" />
@@ -145,15 +148,12 @@
       <item value=" 退出" />
       <item value="退出" />
       <item value="费用" />
-      <item value="转让互换" />
-      <item value="转让" />
-      <item value="转换" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="329" />
+        <entry key="CHINESE" value="332" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="330" />
+        <entry key="ENGLISH" value="333" />
         <entry key="GALICIAN" value="1" />
         <entry key="RUSSIAN" value="1" />
       </map>
