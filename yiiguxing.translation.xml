@@ -98,6 +98,10 @@
     <option name="newTranslationDialogX" value="963" />
     <option name="newTranslationDialogY" value="428" />
     <histories>
+      <item value="Bean Metadata Element" />
+      <item value="Attribute Accessor" />
+      <item value="SCOPE PROTOTYPE" />
+      <item value="SCOPE SINGLETON" />
       <item value="Reentrant Lock" />
       <item value="abandon connection, owner thread: main, connected at : 1671498114066, open stackTrace" />
       <item value="Required request body is missing:" />
@@ -144,16 +148,12 @@
       <item value="area" />
       <item value="count Homestead Out" />
       <item value="homesteadOut" />
-      <item value="homestead退出" />
-      <item value=" 退出" />
-      <item value="退出" />
-      <item value="费用" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="332" />
+        <entry key="CHINESE" value="336" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="333" />
+        <entry key="ENGLISH" value="337" />
         <entry key="GALICIAN" value="1" />
         <entry key="RUSSIAN" value="1" />
       </map>
