@@ -98,6 +98,7 @@
     <option name="newTranslationDialogX" value="963" />
     <option name="newTranslationDialogY" value="428" />
     <histories>
+      <item value="expression" />
       <item value="Iterable" />
       <item value="Bean Metadata Element" />
       <item value="Attribute Accessor" />
@@ -147,13 +148,12 @@
       <item value="抵押" />
       <item value="面积" />
       <item value="area" />
-      <item value="count Homestead Out" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="337" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="337" />
+        <entry key="ENGLISH" value="338" />
         <entry key="GALICIAN" value="1" />
         <entry key="RUSSIAN" value="1" />
       </map>
