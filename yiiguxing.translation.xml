@@ -94,10 +94,12 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="514" />
+    <option name="newTranslationDialogWidth" value="512" />
     <option name="newTranslationDialogX" value="747" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="单例" />
+      <item value="Singer" />
       <item value="count Compensated Use" />
       <item value="要" />
       <item value="区域代码项目类型项目状态开始时间" />
@@ -146,14 +148,12 @@
       <item value="少女" />
       <item value="reasonable" />
       <item value="offset Page" />
-      <item value="dlownload grammar and spelling checker for Chinese" />
-      <item value="dlownload grammar and spelling chech" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="426" />
+        <entry key="CHINESE" value="432" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="427" />
+        <entry key="ENGLISH" value="433" />
         <entry key="GALICIAN" value="1" />
         <entry key="RUSSIAN" value="1" />
       </map>
