@@ -98,6 +98,7 @@
     <option name="newTranslationDialogX" value="963" />
     <option name="newTranslationDialogY" value="428" />
     <histories>
+      <item value="count Transfer Swap" />
       <item value="套接字" />
       <item value="Tests if this date is before the specified date." />
       <item value="Tests if this date is after the specified date." />
@@ -147,13 +148,12 @@
       <item value="combination" />
       <item value="assert True" />
       <item value="assertj" />
-      <item value="stream has already been operated upon or closed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="377" />
+        <entry key="CHINESE" value="378" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="378" />
+        <entry key="ENGLISH" value="379" />
         <entry key="GALICIAN" value="1" />
         <entry key="RUSSIAN" value="1" />
       </map>
