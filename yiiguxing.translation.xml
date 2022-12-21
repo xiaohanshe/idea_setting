@@ -94,10 +94,11 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="524" />
+    <option name="newTranslationDialogWidth" value="522" />
     <option name="newTranslationDialogX" value="963" />
     <option name="newTranslationDialogY" value="428" />
     <histories>
+      <item value="套接字" />
       <item value="Tests if this date is before the specified date." />
       <item value="Tests if this date is after the specified date." />
       <item value="expression" />
@@ -147,13 +148,12 @@
       <item value="assert True" />
       <item value="assertj" />
       <item value="stream has already been operated upon or closed" />
-      <item value="抵押" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="340" />
+        <entry key="CHINESE" value="377" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="341" />
+        <entry key="ENGLISH" value="378" />
         <entry key="GALICIAN" value="1" />
         <entry key="RUSSIAN" value="1" />
       </map>
