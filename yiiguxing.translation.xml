@@ -98,6 +98,7 @@
     <option name="newTranslationDialogX" value="747" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="HALF UP" />
       <item value="Thread[Reference Handler,10,system" />
       <item value="Finalizer,8,system" />
       <item value="Signal Dispatcher,9,system" />
@@ -147,7 +148,6 @@
       <item value="异址新建，原址翻建，改扩建，" />
       <item value="异址新建，原址翻建，改扩建" />
       <item value="异址新建，原址翻建，改 " />
-      <item value="异址新建，原址翻建，" />
     </histories>
     <option name="languageScores">
       <map>
