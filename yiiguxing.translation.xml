@@ -98,6 +98,11 @@
     <option name="newTranslationDialogX" value="747" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="Thread[Reference Handler,10,system" />
+      <item value="Finalizer,8,system" />
+      <item value="Signal Dispatcher,9,system" />
+      <item value="Attach Listener,5,system" />
+      <item value="Monitor Ctrl-Break,5,main" />
       <item value="create Scheduled Executor" />
       <item value="volatile" />
       <item value="claim Task" />
@@ -143,17 +148,12 @@
       <item value="异址新建，原址翻建，改扩建" />
       <item value="异址新建，原址翻建，改 " />
       <item value="异址新建，原址翻建，" />
-      <item value="异址新建，原址翻建" />
-      <item value="异址新建2" />
-      <item value="异址新建" />
-      <item value="异址" />
-      <item value="少女犹豫了片刻" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="437" />
+        <entry key="CHINESE" value="442" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="438" />
+        <entry key="ENGLISH" value="443" />
         <entry key="GALICIAN" value="1" />
         <entry key="RUSSIAN" value="1" />
       </map>
