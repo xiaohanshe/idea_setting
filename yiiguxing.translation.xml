@@ -98,6 +98,7 @@
     <option name="newTranslationDialogX" value="747" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="volatile" />
       <item value="claim Task" />
       <item value="duplicate key value violates unique constraint &quot;d_ycsy_pkey&quot;" />
       <item value="duplicate key value violates unique constraint" />
@@ -147,13 +148,12 @@
       <item value="异址" />
       <item value="少女犹豫了片刻" />
       <item value="少女犹豫了" />
-      <item value="少女犹豫了一下" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="435" />
+        <entry key="CHINESE" value="436" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="436" />
+        <entry key="ENGLISH" value="437" />
         <entry key="GALICIAN" value="1" />
         <entry key="RUSSIAN" value="1" />
       </map>
