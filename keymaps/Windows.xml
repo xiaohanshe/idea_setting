@@ -1,9 +1,11 @@
 <keymap version="1" name="Windows 副本" parent="$default">
   <action id="cn.wind.action.NextAction">
     <keyboard-shortcut first-keystroke="ctrl numpad2" />
+    <keyboard-shortcut first-keystroke="ctrl back_slash" />
   </action>
   <action id="cn.wind.action.PrevAction">
     <keyboard-shortcut first-keystroke="ctrl numpad1" />
+    <keyboard-shortcut first-keystroke="ctrl quote" />
   </action>
   <action id="cn.wind.action.SwipeAction">
     <keyboard-shortcut first-keystroke="ctrl numpad3" />
