@@ -81,7 +81,7 @@
     <option name="translator" value="BAIDU" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1671412796160" />
+    <option name="lastTrimTime" value="1671845867012" />
   </component>
   <component name="Translation.Settings">
     <option name="baiduTranslateSettings">
@@ -98,6 +98,13 @@
     <option name="newTranslationDialogX" value="747" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="high" />
+      <item value="low" />
+      <item value="is Letter" />
+      <item value="to Lower Case" />
+      <item value="is Alphabetical" />
+      <item value="if given string is alphabetical order, otherwise" />
+      <item value="Check if a string is alphabetical order or not" />
       <item value="get Nsqzjdmj" />
       <item value="rect" />
       <item value="-moz-image-rect" />
@@ -141,19 +148,12 @@
       <item value="异址新，开始时间，结束时间，&#10;改扩建，异址新建，" />
       <item value="异址新，开始时间，结束时间，&#10;改扩建" />
       <item value="异址新，开始时间，结束时间" />
-      <item value="异址新，" />
-      <item value="异址新" />
-      <item value="异址新，中文，根据区域 代码统计" />
-      <item value="异址新，中文，根据区域 " />
-      <item value="异址新，中文，" />
-      <item value="异址新建，原址翻" />
-      <item value="异址新建，原址翻建，改扩建，申请==============================================================================】" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="447" />
+        <entry key="CHINESE" value="454" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="447" />
+        <entry key="ENGLISH" value="455" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
         <entry key="RUSSIAN" value="1" />
