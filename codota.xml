@@ -24,5 +24,7 @@
         <option value="deep-completions" />
       </set>
     </option>
+    <option name="lastTabnineRecommendationDisplayDate" value="1671862082029" />
+    <option name="tabnineRecommendationDontShowAgain" value="true" />
   </component>
 </application>
