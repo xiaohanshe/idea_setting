@@ -94,10 +94,20 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="512" />
+    <option name="newTranslationDialogWidth" value="502" />
     <option name="newTranslationDialogX" value="747" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="骆驼" />
+      <item value="驼峰转换" />
+      <item value="驼峰" />
+      <item value="Pascal Case" />
+      <item value="to Pascal Case" />
+      <item value="toPascal Case" />
+      <item value="t oPascal Case" />
+      <item value="toPascalCase" />
+      <item value="后缀" />
+      <item value="前缀" />
       <item value="high" />
       <item value="low" />
       <item value="is Letter" />
@@ -138,22 +148,12 @@
       <item value="异址新，开始时间，结束时间，&#10;改扩建，异址新建，原址翻建，转让，互换，退出，有偿使用&#10;抵押" />
       <item value="异址新，开始时间，结束时间，&#10;改扩建，异址新建，原址翻建，转让，互换，退出，有偿使用" />
       <item value="异址新，开始时间，结束时间，&#10;改扩建，异址新建，原址翻建，转让，互换，退出，有偿" />
-      <item value="异址新，开始时间，结束时间，&#10;改扩建，异址新建，原址翻建，转让，互换，退出" />
-      <item value="异址新，开始时间，结束时间，&#10;改扩建，异址新建，原址翻建，转让，互换" />
-      <item value="异址新，开始时间，结束时间，&#10;改扩建，异址新建，原址翻建，" />
-      <item value="异址新，开始时间，结束时间，&#10;改扩建，异址新建，原址翻建" />
-      <item value="异址新，开始时间，结束时间，&#10;改扩建，异址新建，原址翻 " />
-      <item value="异址新，开始时间，结束时间，&#10;改扩建，异址新建，原址翻那" />
-      <item value="异址新，开始时间，结束时间，&#10;改扩建，异址新建，原址" />
-      <item value="异址新，开始时间，结束时间，&#10;改扩建，异址新建，" />
-      <item value="异址新，开始时间，结束时间，&#10;改扩建" />
-      <item value="异址新，开始时间，结束时间" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="454" />
+        <entry key="CHINESE" value="479" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="455" />
+        <entry key="ENGLISH" value="479" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
         <entry key="RUSSIAN" value="1" />
