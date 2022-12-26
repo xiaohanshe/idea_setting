@@ -98,6 +98,7 @@
     <option name="newTranslationDialogX" value="747" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="'script' must not be null or empty" />
       <item value="骆驼" />
       <item value="驼峰转换" />
       <item value="驼峰" />
@@ -147,13 +148,12 @@
       <item value="异址新，开始时间，结束时间，&#10;改扩建，异址新建，原址翻建，转让，互换，退出，有偿使用、&#10;抵押 " />
       <item value="异址新，开始时间，结束时间，&#10;改扩建，异址新建，原址翻建，转让，互换，退出，有偿使用&#10;抵押" />
       <item value="异址新，开始时间，结束时间，&#10;改扩建，异址新建，原址翻建，转让，互换，退出，有偿使用" />
-      <item value="异址新，开始时间，结束时间，&#10;改扩建，异址新建，原址翻建，转让，互换，退出，有偿" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="479" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="479" />
+        <entry key="ENGLISH" value="480" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
         <entry key="RUSSIAN" value="1" />
