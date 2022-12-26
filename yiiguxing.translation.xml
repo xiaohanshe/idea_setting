@@ -98,6 +98,7 @@
     <option name="newTranslationDialogX" value="747" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="get Database Product Name" />
       <item value="Underline Case" />
       <item value="Kebab Case" />
       <item value="Symbol Case" />
@@ -147,13 +148,12 @@
       <item value="Singer" />
       <item value="count Compensated Use" />
       <item value="要" />
-      <item value="区域代码项目类型项目状态开始时间" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="489" />
+        <entry key="CHINESE" value="490" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="490" />
+        <entry key="ENGLISH" value="491" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
         <entry key="RUSSIAN" value="1" />
