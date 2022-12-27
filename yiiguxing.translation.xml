@@ -98,6 +98,8 @@
     <option name="newTranslationDialogX" value="747" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="Ambiguous handler methods mapped for" />
+      <item value="Preparing" />
       <item value="statement-close-after-log-enabled" />
       <item value="Handy constants for conversion methods" />
       <item value="frontend Path" />
@@ -146,14 +148,12 @@
       <item value="create Scheduled Executor" />
       <item value="volatile" />
       <item value="claim Task" />
-      <item value="duplicate key value violates unique constraint &quot;d_ycsy_pkey&quot;" />
-      <item value="duplicate key value violates unique constraint" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="493" />
+        <entry key="CHINESE" value="495" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="494" />
+        <entry key="ENGLISH" value="496" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
         <entry key="RUSSIAN" value="1" />
