@@ -98,6 +98,9 @@
     <option name="newTranslationDialogX" value="747" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="As you code, you’ll see Tabnine’s code suggestions inline in grey (in addition to the IDE’s popup suggestions).&#10;" />
+      <item value="Click the Tabnine logo in your status bar at any time to manage your settings, get help and more.&#10;" />
+      <item value="asyncservi" />
       <item value="important: codata is now tabnine" />
       <item value="important: codata is now tab" />
       <item value="important: codata is now " />
@@ -145,17 +148,15 @@
       <item value="to Lower Case" />
       <item value="is Alphabetical" />
       <item value="if given string is alphabetical order, otherwise" />
-      <item value="Check if a string is alphabetical order or not" />
-      <item value="get Nsqzjdmj" />
-      <item value="rect" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="499" />
+        <entry key="CHINESE" value="501" />
         <entry key="DUTCH" value="1" />
         <entry key="ENGLISH" value="499" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
+        <entry key="HUNGARIAN" value="1" />
         <entry key="RUSSIAN" value="1" />
       </map>
     </option>
