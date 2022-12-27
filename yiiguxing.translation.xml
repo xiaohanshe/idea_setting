@@ -98,6 +98,8 @@
     <option name="newTranslationDialogX" value="747" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="statement-close-after-log-enabled" />
+      <item value="Handy constants for conversion methods" />
       <item value="frontend Path" />
       <item value="No converter for [class net.maku.generator.common.utils.Result] with preset Content-Type 'applicationoctet-stream;charset=UTF-8' at org.springframework.web.servlet.mvc.method.annotation.AbstractMessageConverterMethodProcessor.writeWithMessageConverters(AbstractMessageConverterMethodProcessor.java:312) at org.springframework.web.servlet.mvc.method.annotation.RequestResponseBodyMethodProcessor.handleReturnValue(RequestResponseBodyMethodProcessor.java:183) at org.springframework.web.method.support.HandlerMethodReturnValueHandlerComposite.handleReturnValue(HandlerMethodReturnValueHandlerComposite.java:78) at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:135) at org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver.doResolveHandlerMethodException(ExceptionHandlerExceptionResolver.java:428) at org.springframework.web.servlet.handler.AbstractHandlerMethodExceptionResolver.doResolveException(AbstractHandlerMethodExceptionResolver.java:75) at org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver.resolveException(AbstractHandlerExceptionResolver.java:142) at org.springframework.web.servlet.handler.HandlerExceptionResolverComposite.resolveException(HandlerExceptionResolverComposite.java:80) at org.springframework.web.servlet.DispatcherServlet.processHandlerException(DispatcherServlet.java:1331) at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1142) at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1088) at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:964) at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006) at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)" />
       <item value="get Database Product Name" />
@@ -146,14 +148,12 @@
       <item value="claim Task" />
       <item value="duplicate key value violates unique constraint &quot;d_ycsy_pkey&quot;" />
       <item value="duplicate key value violates unique constraint" />
-      <item value="单例" />
-      <item value="Singer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="491" />
+        <entry key="CHINESE" value="493" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="492" />
+        <entry key="ENGLISH" value="494" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
         <entry key="RUSSIAN" value="1" />
