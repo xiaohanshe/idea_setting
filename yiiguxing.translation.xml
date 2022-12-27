@@ -94,10 +94,23 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="502" />
+    <option name="newTranslationDialogWidth" value="500" />
     <option name="newTranslationDialogX" value="747" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="important: codata is now tabnine" />
+      <item value="important: codata is now tab" />
+      <item value="important: codata is now " />
+      <item value="important: codata is now tabin" />
+      <item value="important: codata" />
+      <item value="important" />
+      <item value="importan" />
+      <item value="impo" />
+      <item value="codota is trying to connect to the internet if you have an active internet connection" />
+      <item value="codota is trying to connect to the internet if you have an active " />
+      <item value="codota is trying to connect to the internet" />
+      <item value="codota is trying to coo" />
+      <item value="co" />
       <item value="Hierarchical Bean Factory" />
       <item value="Ambiguous handler methods mapped for" />
       <item value="Preparing" />
@@ -135,25 +148,12 @@
       <item value="Check if a string is alphabetical order or not" />
       <item value="get Nsqzjdmj" />
       <item value="rect" />
-      <item value="-moz-image-rect" />
-      <item value="set Directory For Template Loading" />
-      <item value="The name was interpreted by this TemplateLoader" />
-      <item value="is not a directory" />
-      <item value="Sneaky Throws" />
-      <item value="HALF UP" />
-      <item value="Thread[Reference Handler,10,system" />
-      <item value="Finalizer,8,system" />
-      <item value="Signal Dispatcher,9,system" />
-      <item value="Attach Listener,5,system" />
-      <item value="Monitor Ctrl-Break,5,main" />
-      <item value="create Scheduled Executor" />
-      <item value="volatile" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="496" />
+        <entry key="CHINESE" value="499" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="497" />
+        <entry key="ENGLISH" value="499" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
         <entry key="RUSSIAN" value="1" />
