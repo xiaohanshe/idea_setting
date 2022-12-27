@@ -98,6 +98,7 @@
     <option name="newTranslationDialogX" value="747" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="Hierarchical Bean Factory" />
       <item value="Ambiguous handler methods mapped for" />
       <item value="Preparing" />
       <item value="statement-close-after-log-enabled" />
@@ -147,13 +148,12 @@
       <item value="Monitor Ctrl-Break,5,main" />
       <item value="create Scheduled Executor" />
       <item value="volatile" />
-      <item value="claim Task" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="495" />
+        <entry key="CHINESE" value="496" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="496" />
+        <entry key="ENGLISH" value="497" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
         <entry key="RUSSIAN" value="1" />
