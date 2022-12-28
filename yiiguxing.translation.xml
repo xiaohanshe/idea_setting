@@ -94,10 +94,19 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="494" />
+    <option name="newTranslationDialogWidth" value="492" />
     <option name="newTranslationDialogX" value="747" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="to Int Exact" />
+      <item value="get Approval Launch" />
+      <item value="已提交" />
+      <item value="已发起" />
+      <item value="发起" />
+      <item value="pass Approval" />
+      <item value="approved Sum" />
+      <item value="get Approved Sum" />
+      <item value="pending Approval" />
       <item value="存在" />
       <item value="exists" />
       <item value="等待" />
@@ -139,22 +148,13 @@
       <item value="Underline Case" />
       <item value="Kebab Case" />
       <item value="Symbol Case" />
-      <item value="to Symbol Case" />
-      <item value="duplicate entry" />
-      <item value="NULL not allowed for column &quot;ID&quot;; SQL statement:" />
-      <item value="The driver has not received any packets from the server." />
-      <item value="Unique index or primary key violation: &quot;PUBLIC.PRIMARY_KEY_2 ON PUBLIC.GEN_DATASOURCE(ID) VALUES ( 1 '' )&quot;; SQL statement:" />
-      <item value="expected &quot;[, ::, AT, FORMAT, , , %, +, -, ||, NOT, IS, ILIKE, REGEXP, AND, OR, ,, )&quot;;" />
-      <item value="'script' must not be null or empty" />
-      <item value="骆驼" />
-      <item value="驼峰转换" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="530" />
+        <entry key="CHINESE" value="541" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="531" />
+        <entry key="ENGLISH" value="542" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
         <entry key="HUNGARIAN" value="1" />
