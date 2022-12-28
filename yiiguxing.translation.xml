@@ -94,10 +94,13 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="500" />
+    <option name="newTranslationDialogWidth" value="498" />
     <option name="newTranslationDialogX" value="747" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="等待" />
+      <item value="等等" />
+      <item value="pandding" />
       <item value="remark" />
       <item value="Generating equals/hashCode implementation but without a call to superclass, even though this class does not extend java.lang.Object. If this is intentional, add '(callSuper=false)' to your type. " />
       <item value="level" />
@@ -145,15 +148,13 @@
       <item value="驼峰转换" />
       <item value="驼峰" />
       <item value="Pascal Case" />
-      <item value="to Pascal Case" />
-      <item value="toPascal Case" />
-      <item value="t oPascal Case" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="506" />
+        <entry key="CHINESE" value="522" />
+        <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="507" />
+        <entry key="ENGLISH" value="522" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
         <entry key="HUNGARIAN" value="1" />
