@@ -98,6 +98,9 @@
     <option name="newTranslationDialogX" value="747" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="remark" />
+      <item value="Generating equals/hashCode implementation but without a call to superclass, even though this class does not extend java.lang.Object. If this is intentional, add '(callSuper=false)' to your type. " />
+      <item value="level" />
       <item value="execution" />
       <item value="proceed" />
       <item value="No active profile set, falling back to default profiles: default" />
@@ -145,15 +148,12 @@
       <item value="to Pascal Case" />
       <item value="toPascal Case" />
       <item value="t oPascal Case" />
-      <item value="toPascalCase" />
-      <item value="后缀" />
-      <item value="前缀" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="504" />
+        <entry key="CHINESE" value="506" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="505" />
+        <entry key="ENGLISH" value="507" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
         <entry key="HUNGARIAN" value="1" />
