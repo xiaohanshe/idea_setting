@@ -98,6 +98,7 @@
     <option name="newTranslationDialogX" value="747" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="No active profile set, falling back to default profiles: default" />
       <item value="complete" />
       <item value="single Result" />
       <item value="This object contains factory methods for each Java content interface and Java element interface generated in the com.asyf.demo.customer.client2 package. &lt;p&gt;An ObjectFactory allows you to programatically construct new instances of the Java representation for XML content. The Java representation of XML content can consist of schema derived interfaces and classes representing the binding of schema type definitions, element declarations and model groups. Factory methods for each of these are provided in this class." />
@@ -147,13 +148,12 @@
       <item value="前缀" />
       <item value="high" />
       <item value="low" />
-      <item value="is Letter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="501" />
+        <entry key="CHINESE" value="502" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="502" />
+        <entry key="ENGLISH" value="503" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
         <entry key="HUNGARIAN" value="1" />
