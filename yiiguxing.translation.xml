@@ -98,6 +98,8 @@
     <option name="newTranslationDialogX" value="747" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="execution" />
+      <item value="proceed" />
       <item value="No active profile set, falling back to default profiles: default" />
       <item value="complete" />
       <item value="single Result" />
@@ -146,14 +148,12 @@
       <item value="toPascalCase" />
       <item value="后缀" />
       <item value="前缀" />
-      <item value="high" />
-      <item value="low" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="502" />
+        <entry key="CHINESE" value="504" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="503" />
+        <entry key="ENGLISH" value="505" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
         <entry key="HUNGARIAN" value="1" />
