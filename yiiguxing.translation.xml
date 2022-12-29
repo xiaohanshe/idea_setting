@@ -81,7 +81,7 @@
     <option name="translator" value="BAIDU" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1671845867012" />
+    <option name="lastTrimTime" value="1672294799071" />
   </component>
   <component name="Translation.Settings">
     <option name="baiduTranslateSettings">
@@ -94,10 +94,14 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="492" />
+    <option name="newTranslationDialogWidth" value="490" />
     <option name="newTranslationDialogX" value="747" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="wrapper" />
+      <item value="wapper" />
+      <item value="包裹" />
+      <item value="包装" />
       <item value="to Int Exact" />
       <item value="get Approval Launch" />
       <item value="已提交" />
@@ -144,17 +148,13 @@
       <item value="Handy constants for conversion methods" />
       <item value="frontend Path" />
       <item value="No converter for [class net.maku.generator.common.utils.Result] with preset Content-Type 'applicationoctet-stream;charset=UTF-8' at org.springframework.web.servlet.mvc.method.annotation.AbstractMessageConverterMethodProcessor.writeWithMessageConverters(AbstractMessageConverterMethodProcessor.java:312) at org.springframework.web.servlet.mvc.method.annotation.RequestResponseBodyMethodProcessor.handleReturnValue(RequestResponseBodyMethodProcessor.java:183) at org.springframework.web.method.support.HandlerMethodReturnValueHandlerComposite.handleReturnValue(HandlerMethodReturnValueHandlerComposite.java:78) at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:135) at org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver.doResolveHandlerMethodException(ExceptionHandlerExceptionResolver.java:428) at org.springframework.web.servlet.handler.AbstractHandlerMethodExceptionResolver.doResolveException(AbstractHandlerMethodExceptionResolver.java:75) at org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver.resolveException(AbstractHandlerExceptionResolver.java:142) at org.springframework.web.servlet.handler.HandlerExceptionResolverComposite.resolveException(HandlerExceptionResolverComposite.java:80) at org.springframework.web.servlet.DispatcherServlet.processHandlerException(DispatcherServlet.java:1331) at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1142) at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1088) at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:964) at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006) at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)" />
-      <item value="get Database Product Name" />
-      <item value="Underline Case" />
-      <item value="Kebab Case" />
-      <item value="Symbol Case" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="541" />
+        <entry key="CHINESE" value="569" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="542" />
+        <entry key="ENGLISH" value="569" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
         <entry key="HUNGARIAN" value="1" />
