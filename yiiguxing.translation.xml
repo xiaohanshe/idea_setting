@@ -98,6 +98,8 @@
     <option name="newTranslationDialogX" value="747" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="unable to read askpass response from" />
+      <item value="failed to execute prompt script" />
       <item value="nested exception is org.apache.ibatis.executor.result.ResultMapException: Error attempting to get column 'status' from result set. Cause: java.lang.IllegalArgumentException: No enum constant com.galaxy.homestead.common.enums.DataStatus.0" />
       <item value="insertable" />
       <item value="Cause" />
@@ -146,15 +148,13 @@
       <item value="impo" />
       <item value="codota is trying to connect to the internet if you have an active internet connection" />
       <item value="codota is trying to connect to the internet if you have an active " />
-      <item value="codota is trying to connect to the internet" />
-      <item value="codota is trying to coo" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="576" />
+        <entry key="CHINESE" value="578" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="577" />
+        <entry key="ENGLISH" value="579" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
         <entry key="HUNGARIAN" value="1" />
