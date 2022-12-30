@@ -98,6 +98,7 @@
     <option name="newTranslationDialogX" value="747" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="Annual Statistics" />
       <item value="No MyBatis mapper was found in '[com.hy.demo.mapper]' package. Please check your configuration." />
       <item value="Skipping MapperFactoryBean with name 'genFieldTypeMapper' and 'com.hy.demo.mapper.GenFieldTypeMapper' mapperInterface. Bean already defined with the same name!" />
       <item value="Failed to bind properties under 'spring.jackson.mapper' to java.util.Map&lt;com.fasterxml.jackson.databind.MapperFeature, java.lang.Boolean&gt;:" />
@@ -147,14 +148,13 @@
       <item value="As you code, you’ll see Tabnine’s code suggestions inline in grey (in addition to the IDE’s popup suggestions).&#10;" />
       <item value="Click the Tabnine logo in your status bar at any time to manage your settings, get help and more.&#10;" />
       <item value="asyncservi" />
-      <item value="important: codata is now tabnine" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="587" />
+        <entry key="CHINESE" value="588" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="588" />
+        <entry key="ENGLISH" value="589" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
         <entry key="HUNGARIAN" value="1" />
