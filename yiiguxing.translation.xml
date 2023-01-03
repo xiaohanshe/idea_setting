@@ -98,6 +98,7 @@
     <option name="newTranslationDialogX" value="747" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="Dict Constants" />
       <item value="Rounding Mode" />
       <item value="HALF UP" />
       <item value="precision" />
@@ -147,14 +148,13 @@
       <item value="approved Sum" />
       <item value="get Approved Sum" />
       <item value="pending Approval" />
-      <item value="存在" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="605" />
+        <entry key="CHINESE" value="606" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="606" />
+        <entry key="ENGLISH" value="607" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
         <entry key="HUNGARIAN" value="1" />
