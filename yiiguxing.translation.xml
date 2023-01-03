@@ -81,7 +81,7 @@
     <option name="translator" value="BAIDU" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1672294799071" />
+    <option name="lastTrimTime" value="1672729415855" />
   </component>
   <component name="Translation.Settings">
     <option name="baiduTranslateSettings">
@@ -98,6 +98,10 @@
     <option name="newTranslationDialogX" value="747" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="to Epoch Milli" />
+      <item value="Epoch Second" />
+      <item value="get Epoch Second" />
+      <item value="Instant" />
       <item value="Const" />
       <item value="Consts" />
       <item value="Dict Constants" />
@@ -144,22 +148,19 @@
       <item value="to Int Exact" />
       <item value="get Approval Launch" />
       <item value="已提交" />
-      <item value="已发起" />
-      <item value="发起" />
-      <item value="pass Approval" />
-      <item value="approved Sum" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="607" />
+        <entry key="CHINESE" value="610" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="607" />
+        <entry key="ENGLISH" value="610" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="2" />
         <entry key="HUNGARIAN" value="1" />
         <entry key="INDONESIAN" value="1" />
         <entry key="RUSSIAN" value="2" />
+        <entry key="SLOVAK" value="1" />
       </map>
     </option>
   </component>
