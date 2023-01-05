@@ -98,6 +98,7 @@
     <option name="newTranslationDialogX" value="747" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="Skipping MapperFactoryBean with name 'statSpMapper' and 'com.galaxy.homestead.approve.statsp.mapper.StatSpMapper' mapperInterface. Bean already defined with the same name!" />
       <item value="This primary key of &quot;id&quot; is primitive !" />
       <item value="number" />
       <item value="Rejected" />
@@ -147,14 +148,13 @@
       <item value="Parameter 0 of method helloService in com.hy.DemoAutoConfiguration required a single bean, but 2 were found:" />
       <item value="Injection of resource dependencies failed; nested exception is org.springframework.beans.factory.NoUniqueBeanDefinitionException: No qualifying bean of type 'com.hy.DemoProperties' available: expected single matching bean but found 2: my-starter.demo-com.hy.DemoProperties,com.hy.DemoProperties" />
       <item value="wrapper" />
-      <item value="wapper" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="613" />
+        <entry key="CHINESE" value="614" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="614" />
+        <entry key="ENGLISH" value="615" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="2" />
         <entry key="HUNGARIAN" value="1" />
