@@ -98,6 +98,13 @@
     <option name="newTranslationDialogX" value="747" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="removeAbandoned is true, not use in production." />
+      <item value="EntityManagerFactory is closed" />
+      <item value="Condition Handler" />
+      <item value="set Remove Abandoned Timeout" />
+      <item value="Test Environment Provider" />
+      <item value="get Connection Direct" />
+      <item value="powergear" />
       <item value="Skipping MapperFactoryBean with name 'statSpMapper' and 'com.galaxy.homestead.approve.statsp.mapper.StatSpMapper' mapperInterface. Bean already defined with the same name!" />
       <item value="This primary key of &quot;id&quot; is primitive !" />
       <item value="number" />
@@ -116,7 +123,6 @@
       <item value="precision" />
       <item value="unratified" />
       <item value="not use in production." />
-      <item value="removeAbandoned is true, not use in production." />
       <item value="abandoned" />
       <item value="No MyBatis mapper was found in '[com.galaxy.kernel.swagger.config, com.galaxy.homestead]' package. Please check your configuration." />
       <item value="flyway" />
@@ -142,23 +148,17 @@
       <item value="nested exception is org.apache.ibatis.executor.result.ResultMapException: Error attempting to get column 'status' from result set. Cause: java.lang.IllegalArgumentException: No enum constant com.galaxy.homestead.common.enums.DataStatus.0" />
       <item value="insertable" />
       <item value="Cause" />
-      <item value="Error attempting to get column 'status' from result set. Cause: java.lang.IllegalArgumentException: No enum constant com.galaxy.homestead.common.enums.DataStatus.0" />
-      <item value="Conditional On Missing Bean" />
-      <item value="Consider marking one of the beans as @Primary, updating the consumer to accept multiple beans, or using @Qualifier to identify the bean that should be consumed" />
-      <item value="Parameter 0 of method helloService in com.hy.DemoAutoConfiguration required a single bean, but 2 were found:" />
-      <item value="Injection of resource dependencies failed; nested exception is org.springframework.beans.factory.NoUniqueBeanDefinitionException: No qualifying bean of type 'com.hy.DemoProperties' available: expected single matching bean but found 2: my-starter.demo-com.hy.DemoProperties,com.hy.DemoProperties" />
-      <item value="wrapper" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="614" />
+        <entry key="CHINESE" value="620" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="615" />
+        <entry key="ENGLISH" value="621" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="2" />
         <entry key="HUNGARIAN" value="1" />
-        <entry key="INDONESIAN" value="1" />
+        <entry key="INDONESIAN" value="2" />
         <entry key="RUSSIAN" value="2" />
         <entry key="SLOVAK" value="1" />
       </map>
