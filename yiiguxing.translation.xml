@@ -98,6 +98,7 @@
     <option name="newTranslationDialogX" value="747" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="This primary key of &quot;id&quot; is primitive !" />
       <item value="number" />
       <item value="Rejected" />
       <item value="Aborted" />
@@ -147,14 +148,13 @@
       <item value="Injection of resource dependencies failed; nested exception is org.springframework.beans.factory.NoUniqueBeanDefinitionException: No qualifying bean of type 'com.hy.DemoProperties' available: expected single matching bean but found 2: my-starter.demo-com.hy.DemoProperties,com.hy.DemoProperties" />
       <item value="wrapper" />
       <item value="wapper" />
-      <item value="包裹" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="613" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="613" />
+        <entry key="ENGLISH" value="614" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="2" />
         <entry key="HUNGARIAN" value="1" />
