@@ -98,6 +98,7 @@
     <option name="newTranslationDialogX" value="747" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="Cannot deserialize; nested exception is org.springframework.core.serializer.support.SerializationFailedException: Failed to deserialize payload. Is the byte array a result of corresponding serialization for DefaultDeserializer?; nested exception is org.springframework.core.NestedIOException: Failed to deserialize object type; nested exception is java.lang.ClassNotFoundException: com.puri.pg.share.model.entity.FieldInfo" />
       <item value="removeAbandoned is true, not use in production." />
       <item value="EntityManagerFactory is closed" />
       <item value="Condition Handler" />
@@ -147,14 +148,13 @@
       <item value="failed to execute prompt script" />
       <item value="nested exception is org.apache.ibatis.executor.result.ResultMapException: Error attempting to get column 'status' from result set. Cause: java.lang.IllegalArgumentException: No enum constant com.galaxy.homestead.common.enums.DataStatus.0" />
       <item value="insertable" />
-      <item value="Cause" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="620" />
+        <entry key="CHINESE" value="621" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="621" />
+        <entry key="ENGLISH" value="622" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="2" />
         <entry key="HUNGARIAN" value="1" />
