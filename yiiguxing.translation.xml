@@ -98,6 +98,7 @@
     <option name="newTranslationDialogX" value="747" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="Software caused connection abort: socket write error" />
       <item value="send Urgent Data" />
       <item value=".Array Index Out Of Bounds Exception" />
       <item value="set Protocal" />
@@ -147,14 +148,13 @@
       <item value="Annual Statistics" />
       <item value="No MyBatis mapper was found in '[com.hy.demo.mapper]' package. Please check your configuration." />
       <item value="Skipping MapperFactoryBean with name 'genFieldTypeMapper' and 'com.hy.demo.mapper.GenFieldTypeMapper' mapperInterface. Bean already defined with the same name!" />
-      <item value="Failed to bind properties under 'spring.jackson.mapper' to java.util.Map&lt;com.fasterxml.jackson.databind.MapperFeature, java.lang.Boolean&gt;:" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="631" />
+        <entry key="CHINESE" value="632" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="632" />
+        <entry key="ENGLISH" value="633" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="2" />
         <entry key="HUNGARIAN" value="1" />
