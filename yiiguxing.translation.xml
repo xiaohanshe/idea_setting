@@ -98,6 +98,8 @@
     <option name="newTranslationDialogX" value="747" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="Task com.jetty.demo.TomJettyLambda11449621165@2c6a3f77 rejected from java.util.concurrent.ThreadPoolExecutor@5315b42e[Running, pool size = 30, active threads = 30, queued tasks = 1024, completed tasks = 0]" />
+      <item value="Rejected Execution Exception" />
       <item value="Software caused connection abort: socket write error" />
       <item value="send Urgent Data" />
       <item value=".Array Index Out Of Bounds Exception" />
@@ -146,15 +148,13 @@
       <item value="stay" />
       <item value="urge" />
       <item value="Annual Statistics" />
-      <item value="No MyBatis mapper was found in '[com.hy.demo.mapper]' package. Please check your configuration." />
-      <item value="Skipping MapperFactoryBean with name 'genFieldTypeMapper' and 'com.hy.demo.mapper.GenFieldTypeMapper' mapperInterface. Bean already defined with the same name!" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="632" />
+        <entry key="CHINESE" value="634" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="633" />
+        <entry key="ENGLISH" value="635" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="2" />
         <entry key="HUNGARIAN" value="1" />
