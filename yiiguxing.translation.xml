@@ -98,6 +98,7 @@
     <option name="newTranslationDialogX" value="747" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="No such layer group dg_xjxzq in workspace zjd" />
       <item value="org.apache.http.ConnectionClosedException: Premature end of Content-Length delimited message body (expected: 1,000; received: 2)" />
       <item value="java.net.SocketException: Software caused connection abort: recv failed" />
       <item value="Pretty" />
@@ -147,14 +148,13 @@
       <item value="Rounding Mode" />
       <item value="HALF UP" />
       <item value="precision" />
-      <item value="unratified" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="644" />
+        <entry key="CHINESE" value="645" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="645" />
+        <entry key="ENGLISH" value="646" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="2" />
         <entry key="HUNGARIAN" value="1" />
