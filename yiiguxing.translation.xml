@@ -98,6 +98,12 @@
     <option name="newTranslationDialogX" value="747" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="PrimarySources must not be null" />
+      <item value="add Command Line Properties" />
+      <item value="CONSOLE" />
+      <item value="banner Mode" />
+      <item value="banner" />
+      <item value="Height of the banner image in chars (default based on image height)" />
       <item value="available" />
       <item value="Address already in use: JVM_Bind" />
       <item value="Task com.jetty.demo.TomJettyLambda11449621165@2c6a3f77 rejected from java.util.concurrent.ThreadPoolExecutor@5315b42e[Running, pool size = 30, active threads = 30, queued tasks = 1024, completed tasks = 0]" />
@@ -142,19 +148,13 @@
       <item value="abandoned" />
       <item value="No MyBatis mapper was found in '[com.galaxy.kernel.swagger.config, com.galaxy.homestead]' package. Please check your configuration." />
       <item value="flyway" />
-      <item value="This &quot;id&quot; is the table primary key by default name for `id` in Class: &quot;com.galaxy.homestead.approve.zjdjg.model.entity.ZjdzdShyqr&quot;,So @TableField will not work!" />
-      <item value="which does not support persistence. and is not clustered." />
-      <item value="Criteria Query" />
-      <item value="Handle" />
-      <item value="to Handle" />
-      <item value="stay" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="636" />
+        <entry key="CHINESE" value="640" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="637" />
+        <entry key="ENGLISH" value="641" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="2" />
         <entry key="HUNGARIAN" value="1" />
