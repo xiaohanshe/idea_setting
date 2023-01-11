@@ -98,6 +98,8 @@
     <option name="newTranslationDialogX" value="747" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="Pretty" />
+      <item value="to Json Pretty Str" />
       <item value="PrimarySources must not be null" />
       <item value="add Command Line Properties" />
       <item value="CONSOLE" />
@@ -146,15 +148,13 @@
       <item value="unratified" />
       <item value="not use in production." />
       <item value="abandoned" />
-      <item value="No MyBatis mapper was found in '[com.galaxy.kernel.swagger.config, com.galaxy.homestead]' package. Please check your configuration." />
-      <item value="flyway" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="640" />
+        <entry key="CHINESE" value="642" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="641" />
+        <entry key="ENGLISH" value="643" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="2" />
         <entry key="HUNGARIAN" value="1" />
