@@ -98,6 +98,9 @@
     <option name="newTranslationDialogX" value="747" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="exchange" />
+      <item value="Multi Value Map" />
+      <item value="featuretypes" />
       <item value="图层" />
       <item value="No such layer group dg_xjxzq in workspace zjd" />
       <item value="org.apache.http.ConnectionClosedException: Premature end of Content-Length delimited message body (expected: 1,000; received: 2)" />
@@ -145,16 +148,13 @@
       <item value="Instant" />
       <item value="Const" />
       <item value="Consts" />
-      <item value="Dict Constants" />
-      <item value="Rounding Mode" />
-      <item value="HALF UP" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="648" />
+        <entry key="CHINESE" value="651" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="649" />
+        <entry key="ENGLISH" value="652" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="2" />
         <entry key="HUNGARIAN" value="1" />
