@@ -98,6 +98,7 @@
     <option name="newTranslationDialogX" value="747" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="get Database Product Name" />
       <item value="Over the last 30 days JRebel prevented" />
       <item value="since" />
       <item value="exchange" />
@@ -147,14 +148,13 @@
       <item value="to Epoch Milli" />
       <item value="Epoch Second" />
       <item value="get Epoch Second" />
-      <item value="Instant" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="653" />
+        <entry key="CHINESE" value="654" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="654" />
+        <entry key="ENGLISH" value="655" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="2" />
         <entry key="HUNGARIAN" value="1" />
