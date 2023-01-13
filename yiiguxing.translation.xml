@@ -94,10 +94,12 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="482" />
+    <option name="newTranslationDialogWidth" value="478" />
     <option name="newTranslationDialogX" value="747" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="通用" />
+      <item value="常量" />
       <item value="get Database Product Name" />
       <item value="Over the last 30 days JRebel prevented" />
       <item value="since" />
@@ -146,15 +148,13 @@
       <item value="Aborted" />
       <item value="Situation" />
       <item value="to Epoch Milli" />
-      <item value="Epoch Second" />
-      <item value="get Epoch Second" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="654" />
+        <entry key="CHINESE" value="666" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="655" />
+        <entry key="ENGLISH" value="667" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="2" />
         <entry key="HUNGARIAN" value="1" />
