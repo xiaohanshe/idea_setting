@@ -81,7 +81,7 @@
     <option name="translator" value="BAIDU" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1673319152272" />
+    <option name="lastTrimTime" value="1673849358042" />
   </component>
   <component name="Translation.Settings">
     <option name="baiduTranslateSettings">
@@ -98,6 +98,7 @@
     <option name="newTranslationDialogX" value="747" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="initiated" />
       <item value="ant path matcher" />
       <item value="matching-strategy" />
       <item value="pathmatch" />
@@ -147,14 +148,13 @@
       <item value="powergear" />
       <item value="Skipping MapperFactoryBean with name 'statSpMapper' and 'com.galaxy.homestead.approve.statsp.mapper.StatSpMapper' mapperInterface. Bean already defined with the same name!" />
       <item value="This primary key of &quot;id&quot; is primitive !" />
-      <item value="number" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="668" />
+        <entry key="CHINESE" value="669" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="669" />
+        <entry key="ENGLISH" value="670" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="2" />
         <entry key="GERMAN" value="1" />
