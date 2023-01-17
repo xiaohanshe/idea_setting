@@ -98,6 +98,7 @@
     <option name="newTranslationDialogX" value="747" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="Stateless Op" />
       <item value="get Free Db Util" />
       <item value="initiated" />
       <item value="ant path matcher" />
@@ -147,14 +148,13 @@
       <item value="Test Environment Provider" />
       <item value="get Connection Direct" />
       <item value="powergear" />
-      <item value="Skipping MapperFactoryBean with name 'statSpMapper' and 'com.galaxy.homestead.approve.statsp.mapper.StatSpMapper' mapperInterface. Bean already defined with the same name!" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="670" />
+        <entry key="CHINESE" value="671" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="671" />
+        <entry key="ENGLISH" value="672" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="2" />
         <entry key="GERMAN" value="1" />
