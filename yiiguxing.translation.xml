@@ -98,6 +98,7 @@
     <option name="newTranslationDialogX" value="747" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="Json Result Error Data" />
       <item value="Acceptors should be &lt;= availableProcessors" />
       <item value="No active profile set, falling back to default profiles: default" />
       <item value="create Criteria Internal" />
@@ -147,7 +148,6 @@
       <item value="removeAbandoned is true, not use in production." />
       <item value="EntityManagerFactory is closed" />
       <item value="Condition Handler" />
-      <item value="set Remove Abandoned Timeout" />
     </histories>
     <option name="languageScores">
       <map>
@@ -155,7 +155,7 @@
         <entry key="CHINESE" value="674" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="674" />
+        <entry key="ENGLISH" value="675" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="2" />
         <entry key="GERMAN" value="1" />
