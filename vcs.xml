@@ -1,38 +1,4 @@
 <application>
-  <component name="GitRememberedInputs">
-    <option name="visitedUrls">
-      <list>
-        <UrlAndUserName>
-          <option name="url" value="http://prsmartoa.com:7000" />
-          <option name="userName" value="yhan" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://toscode.gitee.com/stylefeng/guns.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://gitee.com/stylefeng/roses.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://gitee.com" />
-          <option name="userName" value="xiaohanshe" />
-        </UrlAndUserName>
-      </list>
-    </option>
-    <option name="cloneParentDir" value="E:\workspace" />
-  </component>
-  <component name="Vcs.Log.App.Settings">
-    <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
-    <option name="COLUMN_ID_ORDER">
-      <list>
-        <option value="Default.Root" />
-        <option value="Default.Subject" />
-        <option value="Default.Author" />
-        <option value="Default.Date" />
-      </list>
-    </option>
-  </component>
   <component name="VcsApplicationSettings">
     <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
   </component>

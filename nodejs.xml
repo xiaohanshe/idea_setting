@@ -1,5 +1,5 @@
 <application>
   <component name="NodeJsLocalInterpreterManager">
-    <local-interpreter path="D:/development/nodejs/node.exe" />
+    <local-interpreter path="D:/Software/nodejs/node.exe" />
   </component>
 </application>
