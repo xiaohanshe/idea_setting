@@ -98,6 +98,11 @@
     <option name="newTranslationDialogX" value="747" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="records" />
+      <item value="No MyBatis mapper was found in '[com.hy..mapper]' package. Please check your configuration." />
+      <item value="Warn: Index: 1, Size of GenFieldTypeServiceImpl's Parameterized Type: 1 ." />
+      <item value="No MyBatis mapper was found in '[com.hy.demo.mapper]' package. Please check your configuration." />
+      <item value="Skipping MapperFactoryBean with name 'genFieldTypeMapper' and 'com.hy.demo.mapper.GenFieldTypeMapper' mapperInterface. Bean already defined with the same name" />
       <item value="Auto Write Field" />
       <item value="Signature" />
       <item value="Json Result Error Data" />
@@ -143,19 +148,14 @@
       <item value="header" />
       <item value="accept encoding" />
       <item value="user agent" />
-      <item value="accept" />
-      <item value="protocal" />
-      <item value="remark" />
-      <item value="Cannot deserialize; nested exception is org.springframework.core.serializer.support.SerializationFailedException: Failed to deserialize payload. Is the byte array a result of corresponding serialization for DefaultDeserializer?; nested exception is org.springframework.core.NestedIOException: Failed to deserialize object type; nested exception is java.lang.ClassNotFoundException: com.puri.pg.share.model.entity.FieldInfo" />
-      <item value="removeAbandoned is true, not use in production." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="676" />
+        <entry key="CHINESE" value="681" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="677" />
+        <entry key="ENGLISH" value="682" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="2" />
         <entry key="GERMAN" value="1" />
