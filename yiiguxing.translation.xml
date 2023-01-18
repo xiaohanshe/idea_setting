@@ -98,6 +98,8 @@
     <option name="newTranslationDialogX" value="747" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="Auto Write Field" />
+      <item value="Signature" />
       <item value="Json Result Error Data" />
       <item value="Acceptors should be &lt;= availableProcessors" />
       <item value="No active profile set, falling back to default profiles: default" />
@@ -146,16 +148,14 @@
       <item value="remark" />
       <item value="Cannot deserialize; nested exception is org.springframework.core.serializer.support.SerializationFailedException: Failed to deserialize payload. Is the byte array a result of corresponding serialization for DefaultDeserializer?; nested exception is org.springframework.core.NestedIOException: Failed to deserialize object type; nested exception is java.lang.ClassNotFoundException: com.puri.pg.share.model.entity.FieldInfo" />
       <item value="removeAbandoned is true, not use in production." />
-      <item value="EntityManagerFactory is closed" />
-      <item value="Condition Handler" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="674" />
+        <entry key="CHINESE" value="676" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="675" />
+        <entry key="ENGLISH" value="677" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="2" />
         <entry key="GERMAN" value="1" />
