@@ -1,5 +1,8 @@
 <application>
   <component name="FindSettings">
+    <option name="customScope" value="模块 'homestead-server'" />
+    <option name="defaultScopeName" value="模块 'homestead-server'" />
+    <option name="SEARCH_SCOPE" value="模块 'homestead-server'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
