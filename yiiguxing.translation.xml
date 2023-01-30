@@ -98,6 +98,9 @@
     <option name="newTranslationDialogX" value="747" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="keep-alive" />
+      <item value="Scale" />
+      <item value="set Scale" />
       <item value="Ready" />
       <item value="Ready config JRebel MybatisPlus plugin" />
       <item value="has Setter" />
@@ -145,17 +148,14 @@
       <item value="Rejected Execution Exception" />
       <item value="Software caused connection abort: socket write error" />
       <item value="send Urgent Data" />
-      <item value=".Array Index Out Of Bounds Exception" />
-      <item value="set Protocal" />
-      <item value="native" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="684" />
+        <entry key="CHINESE" value="687" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="685" />
+        <entry key="ENGLISH" value="688" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="2" />
         <entry key="GERMAN" value="1" />
