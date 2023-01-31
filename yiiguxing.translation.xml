@@ -98,6 +98,7 @@
     <option name="newTranslationDialogX" value="747" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="For further reference, please consider the following sections:" />
       <item value="An exception occurred applying plugin request [id: 'org.springframework.boot', version: '2.6.11'] &gt; Failed to apply plugin [id 'org.springframework.boot'] &gt; Spring Boot plugin requires Gradle 6.8.x, 6.9.x, or 7.x. The current version is Gradle 6.4.1" />
       <item value="An exception occurred applying plugin request [id: 'org.springframework.boot', version: '2.6.11']" />
       <item value="keep-alive" />
@@ -147,15 +148,14 @@
       <item value="available" />
       <item value="Address already in use: JVM_Bind" />
       <item value="Task com.jetty.demo.TomJettyLambda11449621165@2c6a3f77 rejected from java.util.concurrent.ThreadPoolExecutor@5315b42e[Running, pool size = 30, active threads = 30, queued tasks = 1024, completed tasks = 0]" />
-      <item value="Rejected Execution Exception" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="689" />
+        <entry key="CHINESE" value="690" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="690" />
+        <entry key="ENGLISH" value="691" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="2" />
         <entry key="GERMAN" value="1" />
