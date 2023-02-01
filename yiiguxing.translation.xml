@@ -98,6 +98,7 @@
     <option name="newTranslationDialogX" value="747" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'condition,attribute,checkbox,ort_no,ljq,init_sql,sql_template FROM sys_data_obj' at line 1" />
       <item value="CONDITIONS EVALUATION REPORT" />
       <item value="Incorrect column count: expected 1, actual 2" />
       <item value="required Type" />
@@ -147,15 +148,14 @@
       <item value="Over the last 30 days JRebel prevented" />
       <item value="since" />
       <item value="exchange" />
-      <item value="Multi Value Map" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="720" />
+        <entry key="CHINESE" value="721" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="721" />
+        <entry key="ENGLISH" value="722" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="2" />
         <entry key="GERMAN" value="1" />
