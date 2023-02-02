@@ -6,6 +6,10 @@
           <option name="url" value="http://gitee.com" />
           <option name="userName" value="xiaohanshe" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://prsmartoa.com:7000" />
+          <option name="userName" value="yhan" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
