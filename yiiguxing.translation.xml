@@ -98,6 +98,7 @@
     <option name="newTranslationDialogX" value="747" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="Syntax error in template &quot;test.ftl&quot; in line 20, column 57: Encountered &quot;}&quot;, but was expecting one of these patterns:" />
       <item value="assign" />
       <item value="For &quot;{...}&quot; content: Expected a string or something automatically convertible to string (number, date or boolean), or &quot;template output&quot; , but this has evaluated to a sequence (ArrayList wrapped into f.t.DefaultListAdapter): ==&gt; fieldList [in template &quot;test.ftl&quot; at line 3, column 3]" />
       <item value="Deprecated Gradle features were used in this build, making it incompatible with Gradle 9.0." />
@@ -147,15 +148,14 @@
       <item value="pathmatch" />
       <item value="Path of the dispatcher servlet. Setting a custom value for this property is not compatible with the PathPatternParser matching strategy." />
       <item value="通用" />
-      <item value="常量" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="729" />
+        <entry key="CHINESE" value="730" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="730" />
+        <entry key="ENGLISH" value="731" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="2" />
         <entry key="GERMAN" value="1" />
