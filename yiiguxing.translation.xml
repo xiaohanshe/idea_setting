@@ -98,6 +98,7 @@
     <option name="newTranslationDialogX" value="747" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="produces" />
       <item value="Kernel" />
       <item value="elasticsearch" />
       <item value="thirdparty" />
@@ -147,15 +148,14 @@
       <item value="get Free Db Util" />
       <item value="initiated" />
       <item value="ant path matcher" />
-      <item value="matching-strategy" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="733" />
+        <entry key="CHINESE" value="734" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="734" />
+        <entry key="ENGLISH" value="735" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="2" />
         <entry key="GERMAN" value="1" />
