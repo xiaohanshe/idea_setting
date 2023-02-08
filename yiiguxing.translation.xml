@@ -98,6 +98,7 @@
     <option name="newTranslationDialogX" value="747" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="generator Count Sql" />
       <item value="freemarker.core._MiscTemplateException: Can't convert boolean to string automatically, because the &quot;boolean_format&quot; setting was &quot;true,false&quot;, which is the legacy deprecated default, and we treat it as if no format was set. This is the default configuration; you should provide the format explicitly for each place where you print a boolean." />
       <item value="The following has evaluated to null or missing:" />
       <item value="Template Model" />
@@ -147,15 +148,14 @@
       <item value="No MyBatis mapper was found in '[com.hy.demo.mapper]' package. Please check your configuration." />
       <item value="Skipping MapperFactoryBean with name 'genFieldTypeMapper' and 'com.hy.demo.mapper.GenFieldTypeMapper' mapperInterface. Bean already defined with the same name" />
       <item value="Auto Write Field" />
-      <item value="Signature" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="748" />
+        <entry key="CHINESE" value="749" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="749" />
+        <entry key="ENGLISH" value="750" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="2" />
         <entry key="GERMAN" value="1" />
