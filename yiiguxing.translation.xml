@@ -81,7 +81,7 @@
     <option name="translator" value="BAIDU" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1675040808100" />
+    <option name="lastTrimTime" value="1675821980802" />
   </component>
   <component name="Translation.Settings">
     <option name="baiduTranslateSettings">
@@ -94,10 +94,11 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="472" />
+    <option name="newTranslationDialogWidth" value="470" />
     <option name="newTranslationDialogX" value="747" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="动态" />
       <item value="produces" />
       <item value="Kernel" />
       <item value="elasticsearch" />
@@ -147,15 +148,14 @@
       <item value="Stateless Op" />
       <item value="get Free Db Util" />
       <item value="initiated" />
-      <item value="ant path matcher" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="734" />
+        <entry key="CHINESE" value="739" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="735" />
+        <entry key="ENGLISH" value="740" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="2" />
         <entry key="GERMAN" value="1" />
