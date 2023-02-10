@@ -98,6 +98,7 @@
     <option name="newTranslationDialogX" value="747" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="Unrecognized token 'el': was expecting (JSON String, Number, Array, Object or token 'null', 'true' or 'false')" />
       <item value="Consts" />
       <item value="MULTI LINE STYLE" />
       <item value="Template not found for name &quot;update-sql.ftl&quot;." />
@@ -147,7 +148,6 @@
       <item value="keep-alive" />
       <item value="Scale" />
       <item value="set Scale" />
-      <item value="Ready" />
     </histories>
     <option name="languageScores">
       <map>
@@ -155,7 +155,7 @@
         <entry key="CHINESE" value="758" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="758" />
+        <entry key="ENGLISH" value="759" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="2" />
         <entry key="GERMAN" value="1" />
