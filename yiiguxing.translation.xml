@@ -98,6 +98,7 @@
     <option name="newTranslationDialogX" value="747" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="MULTI LINE STYLE" />
       <item value="Template not found for name &quot;update-sql.ftl&quot;." />
       <item value="Failed to bind properties under 'logging.level' to java.util.Map&lt;java.lang.String, org.springframework.boot.logging.LogLevel&gt;:" />
       <item value="Statement Callback" />
@@ -147,15 +148,14 @@
       <item value="set Scale" />
       <item value="Ready" />
       <item value="Ready config JRebel MybatisPlus plugin" />
-      <item value="has Setter" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="756" />
+        <entry key="CHINESE" value="757" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="757" />
+        <entry key="ENGLISH" value="758" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="2" />
         <entry key="GERMAN" value="1" />
