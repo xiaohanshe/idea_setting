@@ -98,6 +98,7 @@
     <option name="newTranslationDialogX" value="747" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1" />
       <item value="Unrecognized token 'el': was expecting (JSON String, Number, Array, Object or token 'null', 'true' or 'false')" />
       <item value="Consts" />
       <item value="MULTI LINE STYLE" />
@@ -147,15 +148,14 @@
       <item value="An exception occurred applying plugin request [id: 'org.springframework.boot', version: '2.6.11']" />
       <item value="keep-alive" />
       <item value="Scale" />
-      <item value="set Scale" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="758" />
+        <entry key="CHINESE" value="760" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="759" />
+        <entry key="ENGLISH" value="761" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="2" />
         <entry key="GERMAN" value="1" />
