@@ -98,6 +98,7 @@
     <option name="newTranslationDialogX" value="747" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="Cleaning up unclosed ZipFile for archive E:\download\data-world\build\resources\main\gen-template\模板.xlsx" />
       <item value="separator" />
       <item value="Excel Ignore Unannotated" />
       <item value="Convert excel format exception.You can try specifying the 'excelType' yourself" />
@@ -147,7 +148,6 @@
       <item value="Failed to configure a DataSource: 'url' attribute is not specified and no embedded datasource could be configured." />
       <item value="Failed to bind properties under 'spring.datasource.druid.enable' to boolean:" />
       <item value="If you have database settings to be loaded from a particular profile you may need to activate it (no profiles are currently active)." />
-      <item value="If you want an embedded database (H2, HSQL or Derby), please put it on the classpath." />
     </histories>
     <option name="languageScores">
       <map>
@@ -155,7 +155,7 @@
         <entry key="CHINESE" value="786" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="787" />
+        <entry key="ENGLISH" value="788" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="2" />
         <entry key="GERMAN" value="1" />
