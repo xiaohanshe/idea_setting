@@ -94,10 +94,13 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="470" />
+    <option name="newTranslationDialogWidth" value="466" />
     <option name="newTranslationDialogX" value="747" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="domain" />
+      <item value="model" />
+      <item value="统计" />
       <item value="You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1" />
       <item value="Unrecognized token 'el': was expecting (JSON String, Number, Array, Object or token 'null', 'true' or 'false')" />
       <item value="Consts" />
@@ -145,17 +148,14 @@
       <item value="Declare repository providing the artifact, see the documentation a" />
       <item value="For further reference, please consider the following sections:" />
       <item value="An exception occurred applying plugin request [id: 'org.springframework.boot', version: '2.6.11'] &gt; Failed to apply plugin [id 'org.springframework.boot'] &gt; Spring Boot plugin requires Gradle 6.8.x, 6.9.x, or 7.x. The current version is Gradle 6.4.1" />
-      <item value="An exception occurred applying plugin request [id: 'org.springframework.boot', version: '2.6.11']" />
-      <item value="keep-alive" />
-      <item value="Scale" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="760" />
+        <entry key="CHINESE" value="765" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="761" />
+        <entry key="ENGLISH" value="765" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="2" />
         <entry key="GERMAN" value="1" />
