@@ -98,6 +98,9 @@
     <option name="newTranslationDialogX" value="747" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="M Standard" />
+      <item value="Alias" />
+      <item value="execution" />
       <item value="分组" />
       <item value="简单" />
       <item value="domain" />
@@ -145,17 +148,14 @@
       <item value="Reason: Failed to determine a suitable driver class" />
       <item value="生成" />
       <item value="工厂" />
-      <item value="Class Path Mapper Scanner" />
-      <item value="ata-world:main: Could not find com.mysql:mysql-connector-j:. Required by: project :" />
-      <item value="Declare repository providing the artifact, see the documentation a" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="781" />
+        <entry key="CHINESE" value="783" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="781" />
+        <entry key="ENGLISH" value="784" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="2" />
         <entry key="GERMAN" value="1" />
