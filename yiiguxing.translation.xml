@@ -81,7 +81,7 @@
     <option name="translator" value="BAIDU" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1675821980802" />
+    <option name="lastTrimTime" value="1676254245567" />
   </component>
   <component name="Translation.Settings">
     <option name="baiduTranslateSettings">
@@ -94,10 +94,12 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="466" />
+    <option name="newTranslationDialogWidth" value="462" />
     <option name="newTranslationDialogX" value="747" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="分组" />
+      <item value="简单" />
       <item value="domain" />
       <item value="model" />
       <item value="统计" />
@@ -146,16 +148,14 @@
       <item value="Class Path Mapper Scanner" />
       <item value="ata-world:main: Could not find com.mysql:mysql-connector-j:. Required by: project :" />
       <item value="Declare repository providing the artifact, see the documentation a" />
-      <item value="For further reference, please consider the following sections:" />
-      <item value="An exception occurred applying plugin request [id: 'org.springframework.boot', version: '2.6.11'] &gt; Failed to apply plugin [id 'org.springframework.boot'] &gt; Spring Boot plugin requires Gradle 6.8.x, 6.9.x, or 7.x. The current version is Gradle 6.4.1" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="765" />
+        <entry key="CHINESE" value="781" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="765" />
+        <entry key="ENGLISH" value="781" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="2" />
         <entry key="GERMAN" value="1" />
