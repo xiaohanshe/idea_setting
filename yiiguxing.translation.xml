@@ -98,6 +98,7 @@
     <option name="newTranslationDialogX" value="747" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="The following has evaluated to null or missing:" />
       <item value="For &quot;&amp;&amp;&quot; right-hand operand: Expected a boolean, but this has evaluated to a number (wrapper: f.t.SimpleNumber):" />
       <item value="Sheet" />
       <item value="验证" />
@@ -122,7 +123,6 @@
       <item value="Failed to bind properties under 'logging.level' to java.util.Map&lt;java.lang.String, org.springframework.boot.logging.LogLevel&gt;:" />
       <item value="Statement Callback" />
       <item value="symbol" />
-      <item value="The following has evaluated to null or missing:" />
       <item value="For &quot;?c&quot; left-hand operand: Expected a number or boolean, but this has evaluated to an extended_hash+string (com.hy.datashare.common.utils.gen.QueryModelPage wrapped into f.e.b.StringModel):" />
       <item value="freemarker.core.InvalidReferenceException: The following has evaluated to null or missing:" />
       <item value="generator Count Sql" />
@@ -152,10 +152,10 @@
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="796" />
+        <entry key="CHINESE" value="797" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="798" />
+        <entry key="ENGLISH" value="799" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="2" />
         <entry key="GERMAN" value="1" />
