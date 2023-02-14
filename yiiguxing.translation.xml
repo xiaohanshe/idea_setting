@@ -98,6 +98,7 @@
     <option name="newTranslationDialogX" value="747" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="Send a form with the text and file fields" />
       <item value="The following has evaluated to null or missing:" />
       <item value="For &quot;&amp;&amp;&quot; right-hand operand: Expected a boolean, but this has evaluated to a number (wrapper: f.t.SimpleNumber):" />
       <item value="Sheet" />
@@ -147,15 +148,14 @@
       <item value="Incorrect column count: expected 1, actual 2" />
       <item value="required Type" />
       <item value="get Single Column Row Mapper" />
-      <item value="Parameter 0 of method getJdbcTemplate in com.hy.dataworld.common.config.JdbcTemplateSysConfig required a single bean, but 3 were found: - dataSourceConfig: defined in file [E:\download\data-world\build\classes\java\main\com\hy\dataworld\common\config\DataSourceConfig.class] - mysqlDataSourceConfig: defined in file [E:\download\data-world\build\classes\java\main\com\hy\dataworld\common\config\MysqlDataSourceConfig.class] - mysqlDataSource: defined by method 'dataSource' in class path resource [comhydataworldcommonconfigMysqlDataSourceConfig.class]" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="797" />
+        <entry key="CHINESE" value="798" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="799" />
+        <entry key="ENGLISH" value="800" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="2" />
         <entry key="GERMAN" value="1" />
