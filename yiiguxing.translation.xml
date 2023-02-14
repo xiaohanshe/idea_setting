@@ -98,6 +98,7 @@
     <option name="newTranslationDialogX" value="747" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="REVISIT Should this be required anyway?" />
       <item value="Send a form with the text and file fields" />
       <item value="The following has evaluated to null or missing:" />
       <item value="For &quot;&amp;&amp;&quot; right-hand operand: Expected a boolean, but this has evaluated to a number (wrapper: f.t.SimpleNumber):" />
@@ -147,15 +148,14 @@
       <item value="You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'condition,attribute,checkbox,ort_no,ljq,init_sql,sql_template FROM sys_data_obj' at line 1" />
       <item value="Incorrect column count: expected 1, actual 2" />
       <item value="required Type" />
-      <item value="get Single Column Row Mapper" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="798" />
+        <entry key="CHINESE" value="799" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="800" />
+        <entry key="ENGLISH" value="801" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="2" />
         <entry key="GERMAN" value="1" />
