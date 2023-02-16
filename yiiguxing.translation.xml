@@ -98,6 +98,8 @@
     <option name="newTranslationDialogX" value="747" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server." />
+      <item value="Communications link failure" />
       <item value="terms Of Service Url" />
       <item value="Cannot find implementation for com.hy.datashare.template.convert.DmsDbFileConvert" />
       <item value="Injection of resource dependencies failed; nested exception" />
@@ -146,16 +148,14 @@
       <item value="elasticsearch" />
       <item value="thirdparty" />
       <item value="Syntax error in template &quot;test.ftl&quot; in line 20, column 57: Encountered &quot;}&quot;, but was expecting one of these patterns:" />
-      <item value="assign" />
-      <item value="For &quot;{...}&quot; content: Expected a string or something automatically convertible to string (number, date or boolean), or &quot;template output&quot; , but this has evaluated to a sequence (ArrayList wrapped into f.t.DefaultListAdapter): ==&gt; fieldList [in template &quot;test.ftl&quot; at line 3, column 3]" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="805" />
+        <entry key="CHINESE" value="807" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="807" />
+        <entry key="ENGLISH" value="809" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="2" />
         <entry key="GERMAN" value="1" />
