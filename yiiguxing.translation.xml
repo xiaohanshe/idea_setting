@@ -98,6 +98,7 @@
     <option name="newTranslationDialogX" value="747" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="No serializer found for class com.hy.datashare.common.utils.reult.R and no properties discovered to create BeanSerializer (to avoid exception, disable SerializationFeature.FAIL_ON_EMPTY_BEANS)" />
       <item value="The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server." />
       <item value="Communications link failure" />
       <item value="terms Of Service Url" />
@@ -147,15 +148,14 @@
       <item value="Kernel" />
       <item value="elasticsearch" />
       <item value="thirdparty" />
-      <item value="Syntax error in template &quot;test.ftl&quot; in line 20, column 57: Encountered &quot;}&quot;, but was expecting one of these patterns:" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="807" />
+        <entry key="CHINESE" value="808" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="809" />
+        <entry key="ENGLISH" value="810" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="2" />
         <entry key="GERMAN" value="1" />
