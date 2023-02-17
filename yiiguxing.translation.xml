@@ -94,10 +94,12 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="460" />
-    <option name="newTranslationDialogX" value="747" />
-    <option name="newTranslationDialogY" value="346" />
+    <option name="newTranslationDialogWidth" value="458" />
+    <option name="newTranslationDialogX" value="737" />
+    <option name="newTranslationDialogY" value="397" />
     <histories>
+      <item value="修改" />
+      <item value="update State" />
       <item value="No serializer found for class com.hy.datashare.common.utils.reult.R and no properties discovered to create BeanSerializer (to avoid exception, disable SerializationFeature.FAIL_ON_EMPTY_BEANS)" />
       <item value="The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server." />
       <item value="Communications link failure" />
@@ -146,16 +148,14 @@
       <item value="动态" />
       <item value="produces" />
       <item value="Kernel" />
-      <item value="elasticsearch" />
-      <item value="thirdparty" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="808" />
+        <entry key="CHINESE" value="819" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="810" />
+        <entry key="ENGLISH" value="821" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="2" />
         <entry key="GERMAN" value="1" />
