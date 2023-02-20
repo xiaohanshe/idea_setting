@@ -81,7 +81,7 @@
     <option name="translator" value="BAIDU" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1676254245567" />
+    <option name="lastTrimTime" value="1676880103711" />
   </component>
   <component name="Translation.Settings">
     <option name="baiduTranslateSettings">
@@ -98,6 +98,8 @@
     <option name="newTranslationDialogX" value="737" />
     <option name="newTranslationDialogY" value="397" />
     <histories>
+      <item value="com.hy.datashare.template.vo.Dms Db Table VO,com.hy.datashare.template.vo.Dms Db Vec VO,com.hy.datashare.template.vo.Dms Db File VO" />
+      <item value="Required request body is missing" />
       <item value="修改" />
       <item value="update State" />
       <item value="No serializer found for class com.hy.datashare.common.utils.reult.R and no properties discovered to create BeanSerializer (to avoid exception, disable SerializationFeature.FAIL_ON_EMPTY_BEANS)" />
@@ -146,16 +148,15 @@
       <item value="The type of the &quot;instance&quot; field changed between Rhino versions, so a GETSTATIC with wrong type declaration would cause a NoSuchFieldError; we're avoiding it by acquiring it reflectively." />
       <item value="For &quot;{...}&quot; content: Expected a string or something automatically convertible to string (number, date or boolean), or &quot;template output&quot; , but this has evaluated to an extended_hash (HashMap wrapped into f.t.DefaultMapAdapter):" />
       <item value="动态" />
-      <item value="produces" />
-      <item value="Kernel" />
     </histories>
     <option name="languageScores">
       <map>
+        <entry key="AFRIKAANS" value="1" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="819" />
+        <entry key="CHINESE" value="821" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="821" />
+        <entry key="ENGLISH" value="822" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="2" />
         <entry key="GERMAN" value="1" />
