@@ -98,6 +98,7 @@
     <option name="newTranslationDialogX" value="894" />
     <option name="newTranslationDialogY" value="372" />
     <histories>
+      <item value="Expected one result (or null) to be returned by selectOne(), but found: 2" />
       <item value="验证" />
       <item value="校验" />
       <item value="valid" />
@@ -147,16 +148,15 @@
       <item value="Statement Callback" />
       <item value="symbol" />
       <item value="For &quot;?c&quot; left-hand operand: Expected a number or boolean, but this has evaluated to an extended_hash+string (com.hy.datashare.common.utils.gen.QueryModelPage wrapped into f.e.b.StringModel):" />
-      <item value="freemarker.core.InvalidReferenceException: The following has evaluated to null or missing:" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="843" />
+        <entry key="CHINESE" value="844" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="844" />
+        <entry key="ENGLISH" value="845" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="2" />
         <entry key="GERMAN" value="1" />
