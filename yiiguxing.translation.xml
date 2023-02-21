@@ -94,10 +94,14 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="456" />
+    <option name="newTranslationDialogWidth" value="454" />
     <option name="newTranslationDialogX" value="894" />
     <option name="newTranslationDialogY" value="372" />
     <histories>
+      <item value="验证" />
+      <item value="校验" />
+      <item value="valid" />
+      <item value="update Valid" />
       <item value="GenerateBuilder" />
       <item value="Generate Builder" />
       <item value="generate Sql" />
@@ -122,8 +126,6 @@
       <item value="The following has evaluated to null or missing:" />
       <item value="For &quot;&amp;&amp;&quot; right-hand operand: Expected a boolean, but this has evaluated to a number (wrapper: f.t.SimpleNumber):" />
       <item value="Sheet" />
-      <item value="验证" />
-      <item value="校验" />
       <item value="Cleaning up unclosed ZipFile for archive E:\download\data-world\build\resources\main\gen-template\模板.xlsx" />
       <item value="separator" />
       <item value="Excel Ignore Unannotated" />
@@ -146,17 +148,15 @@
       <item value="symbol" />
       <item value="For &quot;?c&quot; left-hand operand: Expected a number or boolean, but this has evaluated to an extended_hash+string (com.hy.datashare.common.utils.gen.QueryModelPage wrapped into f.e.b.StringModel):" />
       <item value="freemarker.core.InvalidReferenceException: The following has evaluated to null or missing:" />
-      <item value="generator Count Sql" />
-      <item value="freemarker.core._MiscTemplateException: Can't convert boolean to string automatically, because the &quot;boolean_format&quot; setting was &quot;true,false&quot;, which is the legacy deprecated default, and we treat it as if no format was set. This is the default configuration; you should provide the format explicitly for each place where you print a boolean." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="832" />
+        <entry key="CHINESE" value="843" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="832" />
+        <entry key="ENGLISH" value="844" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="2" />
         <entry key="GERMAN" value="1" />
