@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="sdsdsd" type="AUTO_DETECTED" />
       <mapping pattern="ss" type="AUTO_DETECTED" />
       <mapping pattern="ssss" type="AUTO_DETECTED" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
