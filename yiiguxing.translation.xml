@@ -98,6 +98,7 @@
     <option name="newTranslationDialogX" value="894" />
     <option name="newTranslationDialogY" value="372" />
     <histories>
+      <item value="Web server failed to start. Port 8080 was already in use." />
       <item value="Please check whether you can access the external network" />
       <item value="Expected one result (or null) to be returned by selectOne(), but found: 2" />
       <item value="验证" />
@@ -147,16 +148,15 @@
       <item value="Template not found for name &quot;update-sql.ftl&quot;." />
       <item value="Failed to bind properties under 'logging.level' to java.util.Map&lt;java.lang.String, org.springframework.boot.logging.LogLevel&gt;:" />
       <item value="Statement Callback" />
-      <item value="symbol" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="845" />
+        <entry key="CHINESE" value="846" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="846" />
+        <entry key="ENGLISH" value="847" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="2" />
         <entry key="GERMAN" value="1" />
