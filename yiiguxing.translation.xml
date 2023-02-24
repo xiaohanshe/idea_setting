@@ -98,6 +98,7 @@
     <option name="newTranslationDialogX" value="894" />
     <option name="newTranslationDialogY" value="372" />
     <histories>
+      <item value="do After All Analysed" />
       <item value="template Category" />
       <item value="类别" />
       <item value="Duplicate key 2" />
@@ -147,16 +148,15 @@
       <item value="execution" />
       <item value="分组" />
       <item value="简单" />
-      <item value="domain" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="874" />
+        <entry key="CHINESE" value="875" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="875" />
+        <entry key="ENGLISH" value="876" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="2" />
         <entry key="GERMAN" value="1" />
