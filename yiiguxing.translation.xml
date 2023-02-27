@@ -98,6 +98,7 @@
     <option name="newTranslationDialogX" value="894" />
     <option name="newTranslationDialogY" value="372" />
     <histories>
+      <item value="Builder" />
       <item value="Used to denote an element or component as a scoped slot. The attribute’s value should be a valid JavaScript expression that can appear in the argument position of a function signature. This means in supported environments you can also use ES2015 destructuring in the expression. Serves as a replacement for scope in 2.5.0+.&#10;This attribute does not support dynamic binding." />
       <item value="Condition Expr" />
       <item value="Expr" />
@@ -147,7 +148,6 @@
       <item value="For &quot;&amp;&amp;&quot; right-hand operand: Expected a boolean, but this has evaluated to a number (wrapper: f.t.SimpleNumber):" />
       <item value="Sheet" />
       <item value="Cleaning up unclosed ZipFile for archive E:\download\data-world\build\resources\main\gen-template\模板.xlsx" />
-      <item value="separator" />
     </histories>
     <option name="languageScores">
       <map>
@@ -156,7 +156,7 @@
         <entry key="CHINESE" value="880" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="880" />
+        <entry key="ENGLISH" value="881" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="2" />
         <entry key="GERMAN" value="1" />
