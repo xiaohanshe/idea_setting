@@ -98,6 +98,7 @@
     <option name="newTranslationDialogX" value="894" />
     <option name="newTranslationDialogY" value="372" />
     <histories>
+      <item value="Generating equalshashCode implementation but without a call to superclass, even though this class does not extend java.lang.Object. If this is intentional" />
       <item value="Entry comhydatasharetemplatemapperDmsDbFileMapper.xml is a duplicate but no duplicate handling strategy has been set." />
       <item value="is a duplicate but no duplicate handling strategy has been set. Please refer to" />
       <item value="do After All Analysed" />
@@ -147,7 +148,6 @@
       <item value="Convert excel format exception.You can try specifying the 'excelType' yourself" />
       <item value="M Standard" />
       <item value="Alias" />
-      <item value="execution" />
     </histories>
     <option name="languageScores">
       <map>
