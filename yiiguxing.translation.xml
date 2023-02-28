@@ -98,6 +98,10 @@
     <option name="newTranslationDialogX" value="894" />
     <option name="newTranslationDialogY" value="372" />
     <histories>
+      <item value="Readable Enum" />
+      <item value="Biz Type" />
+      <item value="Biz Type Enum" />
+      <item value="Res Biz Type Enum" />
       <item value="There is insufficient memory for the Java Runtime Environment to continue." />
       <item value="Builder" />
       <item value="Used to denote an element or component as a scoped slot. The attribute’s value should be a valid JavaScript expression that can appear in the argument position of a function signature. This means in supported environments you can also use ES2015 destructuring in the expression. Serves as a replacement for scope in 2.5.0+.&#10;This attribute does not support dynamic binding." />
@@ -144,19 +148,16 @@
       <item value="conn Name" />
       <item value="No operations allowed after connection closed" />
       <item value="REVISIT Should this be required anyway?" />
-      <item value="Send a form with the text and file fields" />
-      <item value="The following has evaluated to null or missing:" />
-      <item value="For &quot;&amp;&amp;&quot; right-hand operand: Expected a boolean, but this has evaluated to a number (wrapper: f.t.SimpleNumber):" />
-      <item value="Sheet" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
+        <entry key="AZERBAIJANI" value="3" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="881" />
+        <entry key="CHINESE" value="882" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="882" />
+        <entry key="ENGLISH" value="883" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="2" />
         <entry key="GERMAN" value="1" />
