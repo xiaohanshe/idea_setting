@@ -98,6 +98,7 @@
     <option name="newTranslationDialogX" value="894" />
     <option name="newTranslationDialogY" value="372" />
     <histories>
+      <item value="trigger" />
       <item value="Readable Enum" />
       <item value="Biz Type" />
       <item value="Biz Type Enum" />
@@ -147,17 +148,16 @@
       <item value="Injection" />
       <item value="conn Name" />
       <item value="No operations allowed after connection closed" />
-      <item value="REVISIT Should this be required anyway?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
         <entry key="AZERBAIJANI" value="3" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="882" />
+        <entry key="CHINESE" value="883" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="883" />
+        <entry key="ENGLISH" value="884" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="2" />
         <entry key="GERMAN" value="1" />
