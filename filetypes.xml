@@ -6,21 +6,6 @@
       <mapping pattern="ss" type="AUTO_DETECTED" />
       <mapping pattern="ssss" type="AUTO_DETECTED" />
       <mapping pattern="nodte" type="AUTO_DETECTED" />
-      <mapping pattern="jest.config" type="JSON" />
-      <mapping pattern=".eslintrc" type="JSON" />
-      <mapping pattern=".stylelintrc" type="JSON" />
-      <mapping pattern=".babelrc" type="JSON" />
-      <mapping pattern="bowerrc" type="JSON" />
-      <mapping ext="jsb3" type="JSON" />
-      <mapping ext="jsb2" type="JSON" />
-      <mapping pattern=".yarnrc" type="PLAIN_TEXT" />
-      <mapping pattern=".jshintignore" type="PLAIN_TEXT" />
-      <mapping pattern=".stylelintignore" type="PLAIN_TEXT" />
-      <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
-      <mapping pattern=".npmrc" type="PLAIN_TEXT" />
-      <mapping pattern=".node-version" type="PLAIN_TEXT" />
-      <mapping pattern=".eslintignore" type="PLAIN_TEXT" />
-      <mapping pattern=".npmignore" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="gson" approved="true" type="Groovy" />
       <removed_mapping ext="ng" approved="true" type="HTML" />
