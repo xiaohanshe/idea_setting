@@ -98,6 +98,9 @@
     <option name="newTranslationDialogX" value="894" />
     <option name="newTranslationDialogY" value="372" />
     <histories>
+      <item value="verify" />
+      <item value="重复校验" />
+      <item value="重复" />
       <item value="key Property" />
       <item value="resolve Type Arguments" />
       <item value="get Super Class Generic Type" />
@@ -145,19 +148,16 @@
       <item value="update State" />
       <item value="No serializer found for class com.hy.datashare.common.utils.reult.R and no properties discovered to create BeanSerializer (to avoid exception, disable SerializationFeature.FAIL_ON_EMPTY_BEANS)" />
       <item value="The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server." />
-      <item value="Communications link failure" />
-      <item value="terms Of Service Url" />
-      <item value="Cannot find implementation for com.hy.datashare.template.convert.DmsDbFileConvert" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
         <entry key="AZERBAIJANI" value="3" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="887" />
+        <entry key="CHINESE" value="901" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="888" />
+        <entry key="ENGLISH" value="902" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="2" />
         <entry key="GERMAN" value="1" />
