@@ -81,7 +81,7 @@
     <option name="translator" value="BAIDU" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1677476528149" />
+    <option name="lastTrimTime" value="1677908756657" />
   </component>
   <component name="Translation.Settings">
     <option name="baiduTranslateSettings">
@@ -98,6 +98,7 @@
     <option name="newTranslationDialogX" value="894" />
     <option name="newTranslationDialogY" value="372" />
     <histories>
+      <item value="blur" />
       <item value="use Table List" />
       <item value="verify" />
       <item value="重复校验" />
@@ -147,17 +148,16 @@
       <item value="Required request body is missing" />
       <item value="修改" />
       <item value="update State" />
-      <item value="No serializer found for class com.hy.datashare.common.utils.reult.R and no properties discovered to create BeanSerializer (to avoid exception, disable SerializationFeature.FAIL_ON_EMPTY_BEANS)" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
         <entry key="AZERBAIJANI" value="3" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="902" />
+        <entry key="CHINESE" value="903" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="903" />
+        <entry key="ENGLISH" value="904" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="2" />
         <entry key="GERMAN" value="1" />
