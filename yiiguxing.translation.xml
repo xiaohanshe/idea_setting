@@ -98,6 +98,7 @@
     <option name="newTranslationDialogX" value="894" />
     <option name="newTranslationDialogY" value="372" />
     <histories>
+      <item value="active" />
       <item value="生成" />
       <item value="valid Alphabets" />
       <item value="brother" />
@@ -147,17 +148,16 @@
       <item value="验证" />
       <item value="校验" />
       <item value="valid" />
-      <item value="update Valid" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
         <entry key="AZERBAIJANI" value="3" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="936" />
+        <entry key="CHINESE" value="937" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="937" />
+        <entry key="ENGLISH" value="938" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="2" />
         <entry key="GERMAN" value="1" />
