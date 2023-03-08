@@ -94,10 +94,13 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="440" />
+    <option name="newTranslationDialogWidth" value="438" />
     <option name="newTranslationDialogX" value="894" />
     <option name="newTranslationDialogY" value="372" />
     <histories>
+      <item value="机构" />
+      <item value="dept" />
+      <item value="dept Code" />
       <item value="四川省" />
       <item value="省" />
       <item value="Key (app_id)=(1633033175301763073) is not present in table &quot;sys_app&quot;." />
@@ -145,19 +148,16 @@
       <item value="类别" />
       <item value="Duplicate key 2" />
       <item value="Duplicate" />
-      <item value="上一个" />
-      <item value="前一个" />
-      <item value="get Physical Number Of Rows" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
         <entry key="AZERBAIJANI" value="3" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="947" />
+        <entry key="CHINESE" value="957" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="948" />
+        <entry key="ENGLISH" value="958" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="2" />
         <entry key="GERMAN" value="1" />
