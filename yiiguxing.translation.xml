@@ -98,6 +98,7 @@
     <option name="newTranslationDialogX" value="894" />
     <option name="newTranslationDialogY" value="372" />
     <histories>
+      <item value="POST NAME NOT UNIQUE" />
       <item value="One record is expected, but the query result is multiple records" />
       <item value="DEPT NAME NOT UNIQUE" />
       <item value="dept" />
@@ -147,7 +148,6 @@
       <item value="Builder" />
       <item value="Used to denote an element or component as a scoped slot. The attribute’s value should be a valid JavaScript expression that can appear in the argument position of a function signature. This means in supported environments you can also use ES2015 destructuring in the expression. Serves as a replacement for scope in 2.5.0+.&#10;This attribute does not support dynamic binding." />
       <item value="Condition Expr" />
-      <item value="Expr" />
     </histories>
     <option name="languageScores">
       <map>
