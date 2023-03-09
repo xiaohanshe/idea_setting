@@ -81,7 +81,7 @@
     <option name="translator" value="BAIDU" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1677908756657" />
+    <option name="lastTrimTime" value="1678342960016" />
   </component>
   <component name="Translation.Settings">
     <option name="baiduTranslateSettings">
@@ -98,6 +98,7 @@
     <option name="newTranslationDialogX" value="894" />
     <option name="newTranslationDialogY" value="372" />
     <histories>
+      <item value="root Parent Id" />
       <item value="get User Tip" />
       <item value="null value in column &quot;tenant_id&quot; violates not-null constraint" />
       <item value="expand" />
@@ -147,17 +148,16 @@
       <item value="Expr" />
       <item value="Strategy" />
       <item value="Generating equalshashCode implementation but without a call to superclass, even though this class does not extend java.lang.Object. If this is intentional" />
-      <item value="Entry comhydatasharetemplatemapperDmsDbFileMapper.xml is a duplicate but no duplicate handling strategy has been set." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
         <entry key="AZERBAIJANI" value="3" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="962" />
+        <entry key="CHINESE" value="963" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="963" />
+        <entry key="ENGLISH" value="964" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="2" />
         <entry key="GERMAN" value="1" />
