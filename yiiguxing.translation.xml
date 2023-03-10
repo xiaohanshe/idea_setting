@@ -94,10 +94,15 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="438" />
+    <option name="newTranslationDialogWidth" value="436" />
     <option name="newTranslationDialogX" value="894" />
     <option name="newTranslationDialogY" value="372" />
     <histories>
+      <item value="user Have Role" />
+      <item value="have Role" />
+      <item value="get User Have Role" />
+      <item value="拥有" />
+      <item value="get User Hold Role" />
       <item value="hold" />
       <item value="holder" />
       <item value="handle" />
@@ -143,21 +148,16 @@
       <item value="operator does not exist: character varying = integer" />
       <item value="get All Root" />
       <item value="Analysis Event Listener" />
-      <item value="extra" />
-      <item value="容易" />
-      <item value="简单" />
-      <item value="preview" />
-      <item value="blur" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
         <entry key="AZERBAIJANI" value="3" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="981" />
+        <entry key="CHINESE" value="990" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="982" />
+        <entry key="ENGLISH" value="991" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="2" />
         <entry key="GERMAN" value="1" />
