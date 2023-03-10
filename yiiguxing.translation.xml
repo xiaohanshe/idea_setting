@@ -98,6 +98,10 @@
     <option name="newTranslationDialogX" value="894" />
     <option name="newTranslationDialogY" value="372" />
     <histories>
+      <item value="add Handler" />
+      <item value="edit Handler" />
+      <item value="Handle" />
+      <item value="add Handle" />
       <item value="dropdown" />
       <item value="command" />
       <item value="keyboard" />
@@ -144,20 +148,16 @@
       <item value="resolve Type Arguments" />
       <item value="get Super Class Generic Type" />
       <item value="dataset" />
-      <item value="trigger" />
-      <item value="Readable Enum" />
-      <item value="Biz Type" />
-      <item value="Biz Type Enum" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
         <entry key="AZERBAIJANI" value="3" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="969" />
+        <entry key="CHINESE" value="973" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="970" />
+        <entry key="ENGLISH" value="974" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="2" />
         <entry key="GERMAN" value="1" />
