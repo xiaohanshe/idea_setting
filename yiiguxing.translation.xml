@@ -98,6 +98,7 @@
     <option name="newTranslationDialogX" value="894" />
     <option name="newTranslationDialogY" value="372" />
     <histories>
+      <item value="expand" />
       <item value="resource Url Param" />
       <item value="temp Cached Resource Definition" />
       <item value="destroy Session Cookie" />
@@ -134,7 +135,6 @@
       <item value="root Parent Id" />
       <item value="get User Tip" />
       <item value="null value in column &quot;tenant_id&quot; violates not-null constraint" />
-      <item value="expand" />
       <item value="loaded" />
       <item value="Organization" />
       <item value="leader" />
@@ -154,10 +154,10 @@
         <entry key="AFRIKAANS" value="1" />
         <entry key="AZERBAIJANI" value="3" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="1002" />
+        <entry key="CHINESE" value="1003" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1003" />
+        <entry key="ENGLISH" value="1004" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="2" />
         <entry key="GERMAN" value="1" />
