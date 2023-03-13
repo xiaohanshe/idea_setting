@@ -98,6 +98,8 @@
     <option name="newTranslationDialogX" value="894" />
     <option name="newTranslationDialogY" value="372" />
     <histories>
+      <item value="assignable" />
+      <item value="assigned" />
       <item value="call" />
       <item value="ceil" />
       <item value="expand" />
@@ -146,18 +148,16 @@
       <item value="省" />
       <item value="Key (app_id)=(1633033175301763073) is not present in table &quot;sys_app&quot;." />
       <item value="insert or update on table &quot;sys_menu&quot; violates foreign key constraint &quot;sys_menu_app_id_fkey&quot;" />
-      <item value="violates foreign key constraint &quot;sys_menu_app_id_fkey&quot;" />
-      <item value="refresh Handler" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
         <entry key="AZERBAIJANI" value="3" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="1004" />
+        <entry key="CHINESE" value="1006" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1005" />
+        <entry key="ENGLISH" value="1007" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="2" />
         <entry key="GERMAN" value="1" />
