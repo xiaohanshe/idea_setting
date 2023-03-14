@@ -98,6 +98,7 @@
     <option name="newTranslationDialogX" value="894" />
     <option name="newTranslationDialogY" value="372" />
     <histories>
+      <item value="assignable User" />
       <item value="is Assigned" />
       <item value="page Assignable User" />
       <item value="reduce" />
@@ -105,7 +106,6 @@
       <item value="accumulator" />
       <item value="page Assign User" />
       <item value="assigned User" />
-      <item value="assignable User" />
       <item value="assignable" />
       <item value="assigned" />
       <item value="call" />
@@ -154,10 +154,10 @@
         <entry key="AFRIKAANS" value="1" />
         <entry key="AZERBAIJANI" value="3" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="1015" />
+        <entry key="CHINESE" value="1016" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1016" />
+        <entry key="ENGLISH" value="1017" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="2" />
         <entry key="GERMAN" value="1" />
