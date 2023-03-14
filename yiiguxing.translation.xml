@@ -98,6 +98,9 @@
     <option name="newTranslationDialogX" value="894" />
     <option name="newTranslationDialogY" value="372" />
     <histories>
+      <item value="page Assign User" />
+      <item value="assigned User" />
+      <item value="assignable User" />
       <item value="assignable" />
       <item value="assigned" />
       <item value="call" />
@@ -145,19 +148,16 @@
       <item value="机构" />
       <item value="dept Code" />
       <item value="四川省" />
-      <item value="省" />
-      <item value="Key (app_id)=(1633033175301763073) is not present in table &quot;sys_app&quot;." />
-      <item value="insert or update on table &quot;sys_menu&quot; violates foreign key constraint &quot;sys_menu_app_id_fkey&quot;" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
         <entry key="AZERBAIJANI" value="3" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="1006" />
+        <entry key="CHINESE" value="1010" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1007" />
+        <entry key="ENGLISH" value="1011" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="2" />
         <entry key="GERMAN" value="1" />
