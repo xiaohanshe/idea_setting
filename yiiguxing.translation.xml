@@ -94,10 +94,12 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="436" />
+    <option name="newTranslationDialogWidth" value="434" />
     <option name="newTranslationDialogX" value="894" />
     <option name="newTranslationDialogY" value="372" />
     <histories>
+      <item value="没有" />
+      <item value="nomoal" />
       <item value="Assertions" />
       <item value="after Evaluate" />
       <item value="Service Editor" />
@@ -146,18 +148,16 @@
       <item value="keyboard" />
       <item value="avatar" />
       <item value="salt" />
-      <item value="POST NAME NOT UNIQUE" />
-      <item value="One record is expected, but the query result is multiple records" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
         <entry key="AZERBAIJANI" value="3" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="1021" />
+        <entry key="CHINESE" value="1040" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1022" />
+        <entry key="ENGLISH" value="1041" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="2" />
         <entry key="GERMAN" value="1" />
