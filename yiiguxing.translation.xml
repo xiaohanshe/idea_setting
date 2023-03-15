@@ -98,6 +98,7 @@
     <option name="newTranslationDialogX" value="894" />
     <option name="newTranslationDialogY" value="372" />
     <histories>
+      <item value="get Current Config Data Source" />
       <item value="Notice Editor" />
       <item value="layer" />
       <item value="Drcs Catalog" />
@@ -147,17 +148,16 @@
       <item value="is not present in table &quot;sys_post&quot;." />
       <item value="add Handler" />
       <item value="edit Handler" />
-      <item value="Handle" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
         <entry key="AZERBAIJANI" value="3" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="1046" />
+        <entry key="CHINESE" value="1047" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1047" />
+        <entry key="ENGLISH" value="1048" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="2" />
         <entry key="GERMAN" value="1" />
