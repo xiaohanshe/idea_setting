@@ -98,6 +98,7 @@
     <option name="newTranslationDialogX" value="894" />
     <option name="newTranslationDialogY" value="372" />
     <histories>
+      <item value="column &quot;keyword&quot; of relation &quot;cms_article&quot; does not exist" />
       <item value="value too long for type character(1)" />
       <item value="alue too long for type character(1)" />
       <item value="ERROR: column &quot;update_by&quot; is of type date but expression is of type character varying" />
@@ -147,18 +148,17 @@
       <item value="get User Have Role" />
       <item value="拥有" />
       <item value="get User Hold Role" />
-      <item value="hold" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
         <entry key="AZERBAIJANI" value="3" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="1055" />
+        <entry key="CHINESE" value="1056" />
         <entry key="CZECH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1056" />
+        <entry key="ENGLISH" value="1057" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="2" />
         <entry key="GERMAN" value="1" />
