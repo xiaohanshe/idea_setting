@@ -98,6 +98,7 @@
     <option name="newTranslationDialogX" value="894" />
     <option name="newTranslationDialogY" value="372" />
     <histories>
+      <item value="opt fraction Digits" />
       <item value="Postion" />
       <item value="Cesium" />
       <item value="Map Statusbar Cesium" />
@@ -147,18 +148,17 @@
       <item value="assignable" />
       <item value="assigned" />
       <item value="call" />
-      <item value="ceil" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
         <entry key="AZERBAIJANI" value="3" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="1069" />
+        <entry key="CHINESE" value="1070" />
         <entry key="CZECH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1070" />
+        <entry key="ENGLISH" value="1071" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="2" />
         <entry key="GERMAN" value="1" />
