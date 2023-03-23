@@ -98,6 +98,9 @@
     <option name="newTranslationDialogX" value="894" />
     <option name="newTranslationDialogY" value="372" />
     <histories>
+      <item value="Postion" />
+      <item value="Cesium" />
+      <item value="Map Statusbar Cesium" />
       <item value="get Feature Info Url" />
       <item value="callback" />
       <item value="change Origin" />
@@ -145,20 +148,17 @@
       <item value="assigned" />
       <item value="call" />
       <item value="ceil" />
-      <item value="expand" />
-      <item value="resource Url Param" />
-      <item value="temp Cached Resource Definition" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
         <entry key="AZERBAIJANI" value="3" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="1065" />
+        <entry key="CHINESE" value="1069" />
         <entry key="CZECH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1066" />
+        <entry key="ENGLISH" value="1070" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="2" />
         <entry key="GERMAN" value="1" />
