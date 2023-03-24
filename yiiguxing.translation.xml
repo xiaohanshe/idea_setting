@@ -98,6 +98,8 @@
     <option name="newTranslationDialogX" value="894" />
     <option name="newTranslationDialogY" value="372" />
     <histories>
+      <item value="Active Record" />
+      <item value="enable Hyphen Style" />
       <item value="Click House Type Convert" />
       <item value="ONLY DATE" />
       <item value="example" />
@@ -146,19 +148,17 @@
       <item value="nomoal" />
       <item value="Assertions" />
       <item value="after Evaluate" />
-      <item value="Service Editor" />
-      <item value="Default Tree Build Factory" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
         <entry key="AZERBAIJANI" value="3" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="1083" />
+        <entry key="CHINESE" value="1086" />
         <entry key="CZECH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1084" />
+        <entry key="ENGLISH" value="1087" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="2" />
         <entry key="GERMAN" value="1" />
