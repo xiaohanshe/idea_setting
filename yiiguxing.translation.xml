@@ -94,10 +94,11 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="434" />
+    <option name="newTranslationDialogWidth" value="432" />
     <option name="newTranslationDialogX" value="894" />
     <option name="newTranslationDialogY" value="372" />
     <histories>
+      <item value="实例" />
       <item value="SELECT FROM INFORMATION_SCHEMA.TABLES WHERE 1=1 AND TABLE_NAME IN ('t_simple')" />
       <item value="Active Record" />
       <item value="enable Hyphen Style" />
@@ -147,18 +148,17 @@
       <item value="indeterminate" />
       <item value="没有" />
       <item value="nomoal" />
-      <item value="Assertions" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
         <entry key="AZERBAIJANI" value="3" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="1086" />
+        <entry key="CHINESE" value="1093" />
         <entry key="CZECH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1087" />
+        <entry key="ENGLISH" value="1094" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="2" />
         <entry key="GERMAN" value="1" />
