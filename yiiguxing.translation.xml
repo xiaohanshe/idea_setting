@@ -98,6 +98,7 @@
     <option name="newTranslationDialogX" value="894" />
     <option name="newTranslationDialogY" value="372" />
     <histories>
+      <item value="at least 433 redeploysrestarts saving you about 14.7 hours." />
       <item value="visible" />
       <item value="require" />
       <item value="list Newest" />
@@ -147,18 +148,17 @@
       <item value="projection" />
       <item value="get Current Config Data Source" />
       <item value="Notice Editor" />
-      <item value="layer" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
         <entry key="AZERBAIJANI" value="3" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="1113" />
+        <entry key="CHINESE" value="1114" />
         <entry key="CZECH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1114" />
+        <entry key="ENGLISH" value="1115" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="2" />
         <entry key="GERMAN" value="1" />
