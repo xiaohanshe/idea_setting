@@ -98,6 +98,7 @@
     <option name="newTranslationDialogX" value="894" />
     <option name="newTranslationDialogY" value="372" />
     <histories>
+      <item value="ignore Table" />
       <item value="memory Cache" />
       <item value="get Appsecret" />
       <item value="跳转" />
@@ -147,18 +148,17 @@
       <item value="Callabck" />
       <item value="Map Statusbar" />
       <item value="radio" />
-      <item value="Handle" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
         <entry key="AZERBAIJANI" value="3" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="1132" />
+        <entry key="CHINESE" value="1133" />
         <entry key="CZECH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1133" />
+        <entry key="ENGLISH" value="1134" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="2" />
         <entry key="GERMAN" value="1" />
