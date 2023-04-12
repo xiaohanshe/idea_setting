@@ -98,6 +98,7 @@
     <option name="newTranslationDialogX" value="894" />
     <option name="newTranslationDialogY" value="372" />
     <histories>
+      <item value="error in opening zip file" />
       <item value="only whitespace content allowed before start tag and not v (position: START_DOCUMENT seen v... @1:1) @ D:\development\apache-maven-3.6.3\conf\settings.xml, line 1, column 1" />
       <item value="2 problems were encountered while building the effective settings" />
       <item value="Error executing Maven." />
@@ -147,18 +148,17 @@
       <item value="placeholder" />
       <item value="coordinate Format" />
       <item value="opt fraction Digits" />
-      <item value="Postion" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
         <entry key="AZERBAIJANI" value="3" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="1144" />
+        <entry key="CHINESE" value="1145" />
         <entry key="CZECH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1145" />
+        <entry key="ENGLISH" value="1146" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="2" />
         <entry key="GERMAN" value="1" />
