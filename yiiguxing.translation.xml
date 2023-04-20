@@ -94,10 +94,16 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="426" />
+    <option name="newTranslationDialogWidth" value="424" />
     <option name="newTranslationDialogX" value="894" />
     <option name="newTranslationDialogY" value="372" />
     <histories>
+      <item value="confir" />
+      <item value="confirm" />
+      <item value="confirmation" />
+      <item value="重复确认" />
+      <item value="确认" />
+      <item value="重复" />
       <item value="Compare" />
       <item value="encrypt" />
       <item value="Plugin org.apache.maven.plugins:maven-compiler-plugin:3.8.0 or one of its dependencies could not be resolved: Failed to read artifact descriptor for org.apache.maven.plugins:maven-compiler-plugin:jar:3.8.0: 1 problem was encountered while building the effective model for org.apache.maven.plugins:maven-compiler-plugin:3.8.0" />
@@ -142,23 +148,17 @@
       <item value="实例" />
       <item value="SELECT FROM INFORMATION_SCHEMA.TABLES WHERE 1=1 AND TABLE_NAME IN ('t_simple')" />
       <item value="Active Record" />
-      <item value="enable Hyphen Style" />
-      <item value="Click House Type Convert" />
-      <item value="ONLY DATE" />
-      <item value="example" />
-      <item value="comment Date" />
-      <item value="Supplier" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
         <entry key="AZERBAIJANI" value="3" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="1153" />
+        <entry key="CHINESE" value="1166" />
         <entry key="CZECH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1154" />
+        <entry key="ENGLISH" value="1166" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="2" />
         <entry key="GERMAN" value="1" />
