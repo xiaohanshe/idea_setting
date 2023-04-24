@@ -98,6 +98,11 @@
     <option name="newTranslationDialogX" value="894" />
     <option name="newTranslationDialogY" value="372" />
     <histories>
+      <item value="MAXIMUM CAPACITY" />
+      <item value="TREEIFY THRESHOLD" />
+      <item value="MIN TREEIFY CAPACITY" />
+      <item value="UNTREEIFY THRESHOLD" />
+      <item value="get Exception Types" />
       <item value="get Generic Superclass" />
       <item value="native" />
       <item value="transient" />
@@ -143,22 +148,17 @@
       <item value="ASM ClassReader failed to parse class file - probably due to a new Java class file version that isn't supported yet: file" />
       <item value="Unsupported class file major version 19014" />
       <item value="at least 433 redeploysrestarts saving you about 14.7 hours." />
-      <item value="visible" />
-      <item value="require" />
-      <item value="list Newest" />
-      <item value="最新" />
-      <item value="最新时间" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
         <entry key="AZERBAIJANI" value="3" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="1169" />
+        <entry key="CHINESE" value="1174" />
         <entry key="CZECH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1170" />
+        <entry key="ENGLISH" value="1175" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="2" />
         <entry key="GERMAN" value="1" />
