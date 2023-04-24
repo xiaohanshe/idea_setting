@@ -98,6 +98,7 @@
     <option name="newTranslationDialogX" value="894" />
     <option name="newTranslationDialogY" value="372" />
     <histories>
+      <item value="get Generic Superclass" />
       <item value="native" />
       <item value="transient" />
       <item value="Concurrent Hash Map" />
@@ -147,18 +148,17 @@
       <item value="list Newest" />
       <item value="最新" />
       <item value="最新时间" />
-      <item value="list Last Time" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
         <entry key="AZERBAIJANI" value="3" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="1168" />
+        <entry key="CHINESE" value="1169" />
         <entry key="CZECH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1169" />
+        <entry key="ENGLISH" value="1170" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="2" />
         <entry key="GERMAN" value="1" />
