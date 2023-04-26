@@ -98,6 +98,7 @@
     <option name="newTranslationDialogX" value="894" />
     <option name="newTranslationDialogY" value="372" />
     <histories>
+      <item value="The POM for redis.clients:jedis:jar:3.8.0 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details" />
       <item value="is Bridge" />
       <item value="set Accessible" />
       <item value="MAXIMUM CAPACITY" />
@@ -147,18 +148,17 @@
       <item value="Resource Center" />
       <item value="One record is expected, but the query result is multiple records" />
       <item value="apply" />
-      <item value="ASM ClassReader failed to parse class file - probably due to a new Java class file version that isn't supported yet: file" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
         <entry key="AZERBAIJANI" value="3" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="1176" />
+        <entry key="CHINESE" value="1177" />
         <entry key="CZECH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1177" />
+        <entry key="ENGLISH" value="1178" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="2" />
         <entry key="GERMAN" value="1" />
