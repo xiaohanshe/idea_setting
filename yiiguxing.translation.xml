@@ -98,6 +98,7 @@
     <option name="newTranslationDialogX" value="894" />
     <option name="newTranslationDialogY" value="372" />
     <histories>
+      <item value="To see the full stack trace of the errors, re-run Maven with the -e switch." />
       <item value="DEFAULT CHARSET" />
       <item value="It is highly recommended to fix these problems because they threaten the stability of your build. For this reason, future Maven versions might no longer support building such malformed projects." />
       <item value="Some problems were encountered while building the effective model" />
@@ -146,7 +147,6 @@
       <item value="framework" />
       <item value="kernel" />
       <item value="he project com.puri.pg:pg-dms:2023.4.10 (E:\workspace\powergear\pg-extend\pg-dms\pom.xml) has 1 error [ERROR] 'modules.module[5]' specifies duplicate child module pg-extend-superapi @ com.puri.pg:pg-dms:{reversion}, E:\workspace\powergear\pg-extend\pg-dms\pom.xml, line 21, column 17" />
-      <item value="To see the full stack trace of the errors, re-run Maven with the -e switch." />
       <item value="The project com.puri.pg:pg-dms:2023.4.10 (E:\workspace\powergear\pg-extend\pg-dms\pom.xml) has 1 error [ERROR] 'modules.module[5]' specifies duplicate child module pg-extend-superapi @ com.puri.pg:pg-dms:{reversion}, E:\workspace\powergear\pg-extend\pg-dms\pom.xml, line 21, column 17" />
     </histories>
     <option name="languageScores">
@@ -154,11 +154,11 @@
         <entry key="AFRIKAANS" value="1" />
         <entry key="AZERBAIJANI" value="3" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="1189" />
+        <entry key="CHINESE" value="1190" />
         <entry key="CZECH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1190" />
+        <entry key="ENGLISH" value="1191" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="2" />
         <entry key="GERMAN" value="1" />
