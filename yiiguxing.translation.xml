@@ -94,10 +94,16 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="424" />
+    <option name="newTranslationDialogWidth" value="422" />
     <option name="newTranslationDialogX" value="894" />
     <option name="newTranslationDialogY" value="372" />
     <histories>
+      <item value="orgin" />
+      <item value="org" />
+      <item value="Domain Wildcard Mapping Builde" />
+      <item value="Wildcard" />
+      <item value="Wildcar" />
+      <item value="Domain Wildcard Mapping Builder" />
       <item value="Directory" />
       <item value="To see the full stack trace of the errors, re-run Maven with the -e switch." />
       <item value="DEFAULT CHARSET" />
@@ -142,23 +148,17 @@
       <item value="only whitespace content allowed before start tag and not v (position: START_DOCUMENT seen v... @1:1) @ D:\development\apache-maven-3.6.3\conf\settings.xml, line 1, column 1" />
       <item value="2 problems were encountered while building the effective settings" />
       <item value="Error executing Maven." />
-      <item value="examine Status" />
-      <item value="The POM for com.alibaba:druid:jar:1.2.11 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details" />
-      <item value="Changes detected - recompiling the module!" />
-      <item value="framework" />
-      <item value="kernel" />
-      <item value="he project com.puri.pg:pg-dms:2023.4.10 (E:\workspace\powergear\pg-extend\pg-dms\pom.xml) has 1 error [ERROR] 'modules.module[5]' specifies duplicate child module pg-extend-superapi @ com.puri.pg:pg-dms:{reversion}, E:\workspace\powergear\pg-extend\pg-dms\pom.xml, line 21, column 17" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
         <entry key="AZERBAIJANI" value="3" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="1191" />
+        <entry key="CHINESE" value="1195" />
         <entry key="CZECH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1192" />
+        <entry key="ENGLISH" value="1195" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="2" />
         <entry key="GERMAN" value="1" />
