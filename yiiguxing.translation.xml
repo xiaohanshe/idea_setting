@@ -98,6 +98,10 @@
     <option name="newTranslationDialogX" value="894" />
     <option name="newTranslationDialogY" value="372" />
     <histories>
+      <item value="A component required a bean of type 'org.example.mp.service.GenFieldTypeService' that could not be found." />
+      <item value="Consider defining a bean of type 'org.example.mp.service.GenFieldTypeService' in your configuration." />
+      <item value="2023-06-16 16:55:17.336 WARN 1260 --- [ main] o.m.s.mapper.ClassPathMapperScanner : Skipping MapperFactoryBean with name 'genFieldTypeMapper' and 'org.example.mp.mapper.GenFieldTypeMapper' mapperInterface. Bean already defined with the same name!" />
+      <item value="Invalid bound statement (not found): org.example.mp.service.GenFieldTypeService.getBaseMapper" />
       <item value="Signature" />
       <item value="map-underscore-to-camel-case" />
       <item value="web-allow-others" />
@@ -144,21 +148,17 @@
       <item value="确认" />
       <item value="重复" />
       <item value="Compare" />
-      <item value="encrypt" />
-      <item value="Plugin org.apache.maven.plugins:maven-compiler-plugin:3.8.0 or one of its dependencies could not be resolved: Failed to read artifact descriptor for org.apache.maven.plugins:maven-compiler-plugin:jar:3.8.0: 1 problem was encountered while building the effective model for org.apache.maven.plugins:maven-compiler-plugin:3.8.0" />
-      <item value="[ERROR] Plugin org.apache.maven.plugins:maven-compiler-plugin:3.8.0 or one of its dependencies could not be resolved: Failed to read artifact descriptor for org.apache.maven.plugins:maven-compiler-plugin:jar:3.8.0: 1 problem was encountered while building the effective model for org.apache.maven.plugins:maven-compiler-plugin:3.8.0" />
-      <item value="set Records" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
         <entry key="AZERBAIJANI" value="3" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="1201" />
+        <entry key="CHINESE" value="1207" />
         <entry key="CZECH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1202" />
+        <entry key="ENGLISH" value="1208" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="2" />
         <entry key="GERMAN" value="1" />
