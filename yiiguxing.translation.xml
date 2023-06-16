@@ -98,6 +98,7 @@
     <option name="newTranslationDialogX" value="894" />
     <option name="newTranslationDialogY" value="372" />
     <histories>
+      <item value="Signature" />
       <item value="map-underscore-to-camel-case" />
       <item value="web-allow-others" />
       <item value="acceptors" />
@@ -147,18 +148,17 @@
       <item value="Plugin org.apache.maven.plugins:maven-compiler-plugin:3.8.0 or one of its dependencies could not be resolved: Failed to read artifact descriptor for org.apache.maven.plugins:maven-compiler-plugin:jar:3.8.0: 1 problem was encountered while building the effective model for org.apache.maven.plugins:maven-compiler-plugin:3.8.0" />
       <item value="[ERROR] Plugin org.apache.maven.plugins:maven-compiler-plugin:3.8.0 or one of its dependencies could not be resolved: Failed to read artifact descriptor for org.apache.maven.plugins:maven-compiler-plugin:jar:3.8.0: 1 problem was encountered while building the effective model for org.apache.maven.plugins:maven-compiler-plugin:3.8.0" />
       <item value="set Records" />
-      <item value="offset" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
         <entry key="AZERBAIJANI" value="3" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="1200" />
+        <entry key="CHINESE" value="1201" />
         <entry key="CZECH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1201" />
+        <entry key="ENGLISH" value="1202" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="2" />
         <entry key="GERMAN" value="1" />
