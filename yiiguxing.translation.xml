@@ -98,6 +98,11 @@
     <option name="newTranslationDialogX" value="894" />
     <option name="newTranslationDialogY" value="372" />
     <histories>
+      <item value="entries" />
+      <item value="increment" />
+      <item value="expire" />
+      <item value="delta" />
+      <item value="lettuce" />
       <item value="Thread" />
       <item value="starter" />
       <item value="2023-06-19 10:49:02 JRebel: ERROR Failed to obtain seat. Unable to connect to license server. Check your network connection andor VPN settings." />
@@ -143,22 +148,17 @@
       <item value="MIN TREEIFY CAPACITY" />
       <item value="UNTREEIFY THRESHOLD" />
       <item value="get Exception Types" />
-      <item value="get Generic Superclass" />
-      <item value="native" />
-      <item value="transient" />
-      <item value="Concurrent Hash Map" />
-      <item value="confir" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
         <entry key="AZERBAIJANI" value="3" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="1212" />
+        <entry key="CHINESE" value="1217" />
         <entry key="CZECH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1213" />
+        <entry key="ENGLISH" value="1218" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="2" />
         <entry key="GERMAN" value="1" />
