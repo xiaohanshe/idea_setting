@@ -98,6 +98,7 @@
     <option name="newTranslationDialogX" value="894" />
     <option name="newTranslationDialogY" value="372" />
     <histories>
+      <item value="dialect" />
       <item value="Database available at 'jdbc:h2:mem:60d428de-8430-4b26-a7ae-e3ec84f49dd9'" />
       <item value="A component required a bean of type 'org.example.mp.service.GenFieldTypeService' that could not be found." />
       <item value="Consider defining a bean of type 'org.example.mp.service.GenFieldTypeService' in your configuration." />
@@ -147,7 +148,6 @@
       <item value="confirmation" />
       <item value="重复确认" />
       <item value="确认" />
-      <item value="重复" />
     </histories>
     <option name="languageScores">
       <map>
@@ -158,7 +158,7 @@
         <entry key="CZECH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1208" />
+        <entry key="ENGLISH" value="1209" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="2" />
         <entry key="GERMAN" value="1" />
