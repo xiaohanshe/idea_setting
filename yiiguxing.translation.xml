@@ -81,7 +81,7 @@
     <option name="translator" value="BAIDU" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1686799435544" />
+    <option name="lastTrimTime" value="1687331372009" />
   </component>
   <component name="Translation.Settings">
     <option name="baiduTranslateSettings">
@@ -98,6 +98,7 @@
     <option name="newTranslationDialogX" value="894" />
     <option name="newTranslationDialogY" value="372" />
     <histories>
+      <item value="routelatlon" />
       <item value="scale" />
       <item value="set Scale" />
       <item value="ROUND HALF UP" />
@@ -147,14 +148,13 @@
       <item value="to Muli Object By Geometry Collection" />
       <item value="version' contains an expression but should be a constant. @ com.puri.pg:pg-dependencies:{reversion}, E:\workspace\powergear\pg-dependencies\pom.xml, line 6, column 14 Some problems were encountered while building the effective model for com.puri.pg:pg-kernel-common:jar:2023.5.5 'dependencies.dependency.(groupId:artifactId:type:classifier)' must be unique: commons-codec:commons-codec:jar -&gt; version (?) vs 1.11 @ com.puri.pg:pg-kernel-common:{reversion}, E:\workspace\powergear\pg-kernel\pg-kernel-common\pom.xml, line 155, column 21 Some problems were encountered while building the effective model for com.puri.pg:pg-kernel:pom:2023.5.5 'version' contains an expression but should be a constant. @ com.puri.pg:pg:{reversion}, E:\workspace\powergear\pom.xml, line 8, column 14 Some problems were encountered while building the effective model for com.puri.pg:pg:pom:2023.5.5 'version' contains an expression but should be a constant. @ com.puri.pg:pg:{reversion}, E:\workspace\powergear\pom.xml, line 8, column 14 It is highly recommended to fix these problems because they threaten the stability of your build. For this reason, future Maven versions might no longer support building such malformed projects." />
       <item value="The POM for org.apache.maven.surefire:surefire-shared-utils:jar:3.0.0-M4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details" />
-      <item value="The POM for ognl:ognl:jar:3.1.26 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
         <entry key="AZERBAIJANI" value="3" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="1225" />
+        <entry key="CHINESE" value="1226" />
         <entry key="CZECH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
@@ -162,7 +162,7 @@
         <entry key="FRENCH" value="1" />
         <entry key="FRISIAN" value="1" />
         <entry key="GALICIAN" value="2" />
-        <entry key="GERMAN" value="1" />
+        <entry key="GERMAN" value="2" />
         <entry key="HUNGARIAN" value="1" />
         <entry key="INDONESIAN" value="2" />
         <entry key="MALTESE" value="2" />
