@@ -81,7 +81,7 @@
     <option name="translator" value="BAIDU" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1687331372009" />
+    <option name="lastTrimTime" value="1687830917940" />
   </component>
   <component name="Translation.Settings">
     <option name="baiduTranslateSettings">
@@ -98,6 +98,7 @@
     <option name="newTranslationDialogX" value="894" />
     <option name="newTranslationDialogY" value="372" />
     <histories>
+      <item value="provided" />
       <item value="The following 1 profile is active: &quot;dev&quot;" />
       <item value="following" />
       <item value="schema" />
@@ -147,7 +148,6 @@
       <item value="Domain Wildcard Mapping Builder" />
       <item value="Directory" />
       <item value="To see the full stack trace of the errors, re-run Maven with the -e switch." />
-      <item value="DEFAULT CHARSET" />
     </histories>
     <option name="languageScores">
       <map>
@@ -158,7 +158,7 @@
         <entry key="CZECH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1240" />
+        <entry key="ENGLISH" value="1241" />
         <entry key="FRENCH" value="1" />
         <entry key="FRISIAN" value="1" />
         <entry key="GALICIAN" value="2" />
